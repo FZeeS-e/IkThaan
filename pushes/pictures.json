@@ -1,9 +1,9 @@
 [
   {
-    "alt": "Ancient brick ruins with a large stupa in background.",
-    "url": "https://images.unsplash.com/photo-1757941898945-776cb3673f91",
-    "colorfulnees": 87.9617,
-    "meansaturation": 0.5505
+    "alt": "Man with beard in a red shirt smiling indoors",
+    "url": "https://images.unsplash.com/photo-1758887261865-a2b89c0f7ac5",
+    "colorfulnees": 82.0905,
+    "meansaturation": 0.4703
   },
   {
     "alt": "Expansive hazy cityscape viewed from a hilltop.",
@@ -12,16 +12,10 @@
     "meansaturation": 0.3741
   },
   {
-    "alt": "Ornate mosque facade with arched walkways and reflection pool.",
-    "url": "https://images.unsplash.com/photo-1758915445207-75961ba3f4e4",
-    "colorfulnees": 57.4226,
-    "meansaturation": 0.4227
-  },
-  {
-    "alt": "Badshahi mosque at sunset with dramatic sky",
-    "url": "https://images.unsplash.com/photo-1758714144057-aae0194dfde5",
-    "colorfulnees": 47.8893,
-    "meansaturation": 0.3004
+    "alt": "Man in yellow kurta standing in a forest",
+    "url": "https://images.unsplash.com/photo-1758913340758-88d5719d37f3",
+    "colorfulnees": 48.5217,
+    "meansaturation": 0.2452
   },
   {
     "alt": "Ornate courtyard of an ancient indian palace",
@@ -36,22 +30,28 @@
     "meansaturation": 0.3141
   },
   {
-    "alt": "Golden temple complex reflected in water under blue sky.",
-    "url": "https://images.unsplash.com/photo-1757552528851-378540b9ae17",
-    "colorfulnees": 40.5162,
-    "meansaturation": 0.2532
-  },
-  {
     "alt": "Grand colonnade opens to ornate building and gardens.",
     "url": "https://images.unsplash.com/photo-1758413352669-dbde0af19b95",
     "colorfulnees": 39.6715,
     "meansaturation": 0.318
   },
   {
-    "alt": "Red flags line a wall next to a road.",
-    "url": "https://images.unsplash.com/photo-1757839728537-f30932d074ab",
-    "colorfulnees": 35.7033,
-    "meansaturation": 0.325
+    "alt": "Busy street scene at dusk with mosque silhouette.",
+    "url": "https://images.unsplash.com/photo-1758721041367-0082f7a68cd1",
+    "colorfulnees": 35.7456,
+    "meansaturation": 0.5269
+  },
+  {
+    "alt": "Palm trees silhouetted against a hazy sky at dawn.",
+    "url": "https://images.unsplash.com/photo-1759483484678-95d322d92116",
+    "colorfulnees": 32.7938,
+    "meansaturation": 0.1781
+  },
+  {
+    "alt": "An empty road lined with trees and streetlights.",
+    "url": "https://images.unsplash.com/photo-1759323050357-9dd486fafb44",
+    "colorfulnees": 32.1712,
+    "meansaturation": 0.4489
   },
   {
     "alt": "Tall grass stalks sway gently in the breeze.",
@@ -60,22 +60,10 @@
     "meansaturation": 0.3555
   },
   {
-    "alt": "Dry grassland with rolling hills under a hazy sky",
-    "url": "https://images.unsplash.com/photo-1758881534639-709146239bd1",
-    "colorfulnees": 31.6362,
-    "meansaturation": 0.3304
-  },
-  {
     "alt": "Ruined brick building with overgrown vegetation through openings",
     "url": "https://images.unsplash.com/photo-1759228301989-9fa6ca684c67",
     "colorfulnees": 27.5057,
     "meansaturation": 0.3738
-  },
-  {
-    "alt": "Trees and fields under a clear sky",
-    "url": "https://images.unsplash.com/photo-1759244565519-3b158ba133f4",
-    "colorfulnees": 24.2793,
-    "meansaturation": 0.1785
   },
   {
     "alt": "An abandoned train car sits among overgrown bushes.",
@@ -102,10 +90,22 @@
     "meansaturation": 0.283
   },
   {
-    "alt": "Silhouetted trees line a road at sunset.",
-    "url": "https://images.unsplash.com/photo-1759483054634-ad1d77d4988e",
-    "colorfulnees": 13.8208,
-    "meansaturation": 0.1158
+    "alt": "Industrial smokestack and buildings by a river.",
+    "url": "https://images.unsplash.com/photo-1758907452680-6f1a7aba9e5e",
+    "colorfulnees": 20.5924,
+    "meansaturation": 0.1363
+  },
+  {
+    "alt": "Stone archway structure with flagpole against sky",
+    "url": "https://images.unsplash.com/photo-1758413148638-b0c2e9600324",
+    "colorfulnees": 14.7493,
+    "meansaturation": 0.174
+  },
+  {
+    "alt": "Japanese covered bridge over a canal with buildings.",
+    "url": "https://images.unsplash.com/photo-1758182044752-07d3f04cd4c8",
+    "colorfulnees": 13.2936,
+    "meansaturation": 0.156
   },
   {
     "alt": "Tall marble minaret against a cloudy sky",
