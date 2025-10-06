@@ -1,21 +1,9 @@
 [
   {
-    "alt": "Man with beard in a red shirt smiling indoors",
-    "url": "https://images.unsplash.com/photo-1758887261865-a2b89c0f7ac5",
-    "colorfulnees": 82.0905,
-    "meansaturation": 0.4703
-  },
-  {
     "alt": "Expansive hazy cityscape viewed from a hilltop.",
     "url": "https://images.unsplash.com/photo-1759373347617-e4a49a1744de",
     "colorfulnees": 77.1204,
     "meansaturation": 0.3741
-  },
-  {
-    "alt": "Man in yellow kurta standing in a forest",
-    "url": "https://images.unsplash.com/photo-1758913340758-88d5719d37f3",
-    "colorfulnees": 48.5217,
-    "meansaturation": 0.2452
   },
   {
     "alt": "Ornate courtyard of an ancient indian palace",
@@ -80,7 +68,7 @@
   {
     "alt": "Ancient stone bridge with pagoda over calm water",
     "url": "https://images.unsplash.com/photo-1759046048973-1dab72e28e74",
-    "colorfulnees": 22.9395,
+    "colorfulnees": 22.9394,
     "meansaturation": 0.1292
   },
   {
