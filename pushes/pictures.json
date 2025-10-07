@@ -6,6 +6,12 @@
     "meansaturation": 0.3741
   },
   {
+    "alt": "Badshahi mosque at sunset with dramatic sky",
+    "url": "https://images.unsplash.com/photo-1758714144057-aae0194dfde5",
+    "colorfulnees": 47.8893,
+    "meansaturation": 0.3004
+  },
+  {
     "alt": "Ornate courtyard of an ancient indian palace",
     "url": "https://images.unsplash.com/photo-1759387758817-1a1861261963",
     "colorfulnees": 47.6642,
@@ -30,16 +36,22 @@
     "meansaturation": 0.5269
   },
   {
+    "alt": "Green rice field with misty mountains in background",
+    "url": "https://images.unsplash.com/photo-1759509039941-2a590148ce1e",
+    "colorfulnees": 34.4545,
+    "meansaturation": 0.3301
+  },
+  {
+    "alt": "Two camels loaded with goods near a body of water.",
+    "url": "https://images.unsplash.com/photo-1759459295621-50110405a4bc",
+    "colorfulnees": 32.8149,
+    "meansaturation": 0.2404
+  },
+  {
     "alt": "Palm trees silhouetted against a hazy sky at dawn.",
     "url": "https://images.unsplash.com/photo-1759483484678-95d322d92116",
     "colorfulnees": 32.7938,
     "meansaturation": 0.1781
-  },
-  {
-    "alt": "An empty road lined with trees and streetlights.",
-    "url": "https://images.unsplash.com/photo-1759323050357-9dd486fafb44",
-    "colorfulnees": 32.1712,
-    "meansaturation": 0.4489
   },
   {
     "alt": "Tall grass stalks sway gently in the breeze.",
@@ -88,12 +100,6 @@
     "url": "https://images.unsplash.com/photo-1758413148638-b0c2e9600324",
     "colorfulnees": 14.7493,
     "meansaturation": 0.174
-  },
-  {
-    "alt": "Japanese covered bridge over a canal with buildings.",
-    "url": "https://images.unsplash.com/photo-1758182044752-07d3f04cd4c8",
-    "colorfulnees": 13.2936,
-    "meansaturation": 0.156
   },
   {
     "alt": "Tall marble minaret against a cloudy sky",
