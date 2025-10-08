@@ -30,12 +30,6 @@
     "meansaturation": 0.318
   },
   {
-    "alt": "Busy street scene at dusk with mosque silhouette.",
-    "url": "https://images.unsplash.com/photo-1758721041367-0082f7a68cd1",
-    "colorfulnees": 35.7456,
-    "meansaturation": 0.5269
-  },
-  {
     "alt": "Green rice field with misty mountains in background",
     "url": "https://images.unsplash.com/photo-1759509039941-2a590148ce1e",
     "colorfulnees": 34.4545,
@@ -100,6 +94,12 @@
     "url": "https://images.unsplash.com/photo-1758413148638-b0c2e9600324",
     "colorfulnees": 14.7493,
     "meansaturation": 0.174
+  },
+  {
+    "alt": "Silhouetted trees line a road at sunset.",
+    "url": "https://images.unsplash.com/photo-1759483054634-ad1d77d4988e",
+    "colorfulnees": 13.8208,
+    "meansaturation": 0.1158
   },
   {
     "alt": "Tall marble minaret against a cloudy sky",
