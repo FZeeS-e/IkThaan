@@ -1,45 +1,27 @@
 [
   {
-    "alt": "Stone church facade with arched windows against blue sky",
-    "url": "https://images.unsplash.com/photo-1759989523000-096c56554546",
-    "colorfulnees": 126.1133,
-    "meansaturation": 0.6197
+    "alt": "Purple landscape with rolling hills and trees",
+    "url": "https://images.unsplash.com/photo-1760017289934-6f0fbb384ef4",
+    "colorfulnees": 112.3375,
+    "meansaturation": 0.7717
   },
   {
-    "alt": "Vibrant red and orange maple leaves in autumn.",
-    "url": "https://images.unsplash.com/photo-1759968016603-d13a98329f22",
-    "colorfulnees": 104.5753,
-    "meansaturation": 0.7611
+    "alt": "Pink water lily blooming among green lily pads",
+    "url": "https://images.unsplash.com/photo-1760007147660-0067c9a0d75a",
+    "colorfulnees": 65.2425,
+    "meansaturation": 0.6209
   },
   {
-    "alt": "Mountain range with dry grass and blue sky",
-    "url": "https://images.unsplash.com/photo-1759978801243-8e5d3ce6d243",
-    "colorfulnees": 79.3027,
-    "meansaturation": 0.4735
+    "alt": "Tall grass with yellow and green hues in a forest",
+    "url": "https://images.unsplash.com/photo-1760017769554-8e22801e94e3",
+    "colorfulnees": 44.3164,
+    "meansaturation": 0.445
   },
   {
-    "alt": "A white church gable with a cross and window",
-    "url": "https://images.unsplash.com/photo-1759968591797-7608d918af91",
-    "colorfulnees": 77.3616,
-    "meansaturation": 0.4578
-  },
-  {
-    "alt": "A solitary cloud hovers over a dark mountain peak.",
-    "url": "https://images.unsplash.com/photo-1759991017566-41a9b44beb72",
-    "colorfulnees": 62.3563,
-    "meansaturation": 0.424
-  },
-  {
-    "alt": "Modern museum building with reflecting pool and city skyline.",
-    "url": "https://images.unsplash.com/photo-1759968589247-6c21ddb85ffa",
-    "colorfulnees": 45.2943,
-    "meansaturation": 0.2933
-  },
-  {
-    "alt": "Dramatic mountain range with snow-capped peaks under cloudy sky",
-    "url": "https://images.unsplash.com/photo-1759992375203-44f82ee9a85d",
-    "colorfulnees": 45.1793,
-    "meansaturation": 0.3014
+    "alt": "Traditional chinese temple architecture with ornate eaves",
+    "url": "https://images.unsplash.com/photo-1759987384188-73121cf50fae",
+    "colorfulnees": 44.1171,
+    "meansaturation": 0.3905
   },
   {
     "alt": "Green grassy hill with trees under a clear blue sky",
@@ -48,69 +30,81 @@
     "meansaturation": 0.4598
   },
   {
-    "alt": "Grand library interior with tall bookshelves and ornate details.",
-    "url": "https://images.unsplash.com/photo-1759968646998-d94b93904082",
-    "colorfulnees": 38.8994,
-    "meansaturation": 0.6538
+    "alt": "Seagulls flying near a fence by the water",
+    "url": "https://images.unsplash.com/photo-1759998758826-1f35e3d3f70e",
+    "colorfulnees": 41.3844,
+    "meansaturation": 0.2457
   },
   {
-    "alt": "Workers inside illuminated unfinished building rooms.",
-    "url": "https://images.unsplash.com/photo-1759968635011-1b7c2f1b7fab",
-    "colorfulnees": 38.3522,
-    "meansaturation": 0.6676
+    "alt": "Close-up of a drying fern leaf with green foliage.",
+    "url": "https://images.unsplash.com/photo-1760017769825-77f70d834f10",
+    "colorfulnees": 37.5208,
+    "meansaturation": 0.3527
   },
   {
-    "alt": "Red berries on a branch with autumn leaves",
-    "url": "https://images.unsplash.com/photo-1759971529624-e62695f00545",
-    "colorfulnees": 36.2948,
-    "meansaturation": 0.4151
+    "alt": "Concrete structure in a forest clearing",
+    "url": "https://images.unsplash.com/photo-1760017770153-df1e647bc252",
+    "colorfulnees": 36.5036,
+    "meansaturation": 0.3777
   },
   {
-    "alt": "Ornate building with dome and modern skyscraper behind.",
-    "url": "https://images.unsplash.com/photo-1759968598400-52f5dd58f103",
-    "colorfulnees": 34.1032,
-    "meansaturation": 0.4717
+    "alt": "Many colorful fishing boats docked in a harbor.",
+    "url": "https://images.unsplash.com/photo-1760020498267-48b8cf62fc71",
+    "colorfulnees": 35.0198,
+    "meansaturation": 0.1458
   },
   {
-    "alt": "Cross-shaped stained glass windows in a dark room.",
-    "url": "https://images.unsplash.com/photo-1759968603024-f88f80c2fe34",
-    "colorfulnees": 31.7906,
-    "meansaturation": 0.471
+    "alt": "Surfer walks towards ocean waves at sunset",
+    "url": "https://images.unsplash.com/photo-1760019252031-54bf84ae5114",
+    "colorfulnees": 34.17,
+    "meansaturation": 0.3789
   },
   {
-    "alt": "Intricate spiderweb with dew drops in forest",
-    "url": "https://images.unsplash.com/photo-1759973856311-37753db80e51",
-    "colorfulnees": 31.4969,
-    "meansaturation": 0.3597
+    "alt": "A white egret stands in shallow water with mist.",
+    "url": "https://images.unsplash.com/photo-1760016984105-3afec92a3147",
+    "colorfulnees": 30.4079,
+    "meansaturation": 0.4865
   },
   {
-    "alt": "Ornate building with classical architecture and dome.",
-    "url": "https://images.unsplash.com/photo-1759968627605-64dcfbc8d418",
-    "colorfulnees": 29.0145,
-    "meansaturation": 0.5488
+    "alt": "Long bridge stretches across calm water under clouds",
+    "url": "https://images.unsplash.com/photo-1760068427941-e091bb33bc5c",
+    "colorfulnees": 30.0403,
+    "meansaturation": 0.2072
   },
   {
-    "alt": "Iconic sugarloaf mountain overlooking guanabara bay, rio de janeiro.",
-    "url": "https://images.unsplash.com/photo-1759968623753-f62b78634503",
-    "colorfulnees": 22.2625,
-    "meansaturation": 0.2341
+    "alt": "Apples ripening on a tree branch.",
+    "url": "https://images.unsplash.com/photo-1760017769988-cf71cb4d2cda",
+    "colorfulnees": 30.0298,
+    "meansaturation": 0.3392
   },
   {
-    "alt": "City skyline with modern buildings and ocean view.",
-    "url": "https://images.unsplash.com/photo-1759968598794-0b4538c44435",
-    "colorfulnees": 17.733,
-    "meansaturation": 0.1834
+    "alt": "Illuminated bridge reflects on calm water at night.",
+    "url": "https://images.unsplash.com/photo-1759995768959-6fef98ed85c4",
+    "colorfulnees": 29.791,
+    "meansaturation": 0.9144
   },
   {
-    "alt": "Modern white architectural structure against cloudy sky",
-    "url": "https://images.unsplash.com/photo-1759968577717-b4d5bd3bf104",
-    "colorfulnees": 12.8647,
-    "meansaturation": 0.0897
+    "alt": "Gothic style church with tall spire and arched windows",
+    "url": "https://images.unsplash.com/photo-1759995607263-867e3696ee00",
+    "colorfulnees": 27.0175,
+    "meansaturation": 0.2093
   },
   {
-    "alt": "Dark mountain peak against a cloudy sky",
-    "url": "https://images.unsplash.com/photo-1759978801196-29611cc58010",
-    "colorfulnees": 9.5096,
-    "meansaturation": 0.1263
+    "alt": "Fluffy white clouds against a clear blue sky",
+    "url": "https://images.unsplash.com/photo-1760002644566-bb6a25ee72de",
+    "colorfulnees": 22.5179,
+    "meansaturation": 0.1768
+  },
+  {
+    "alt": "Balconies on a light blue apartment building",
+    "url": "https://images.unsplash.com/photo-1759989142194-0f65ec7f1ef3",
+    "colorfulnees": 21.3684,
+    "meansaturation": 0.1243
+  },
+  {
+    "alt": "Village nestled in a lush green forest landscape.",
+    "url": "https://images.unsplash.com/photo-1760023217041-3a57677b519e",
+    "colorfulnees": 17.2871,
+    "meansaturation": 0.4051
   }
 ]
