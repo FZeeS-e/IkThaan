@@ -42,6 +42,12 @@
     "meansaturation": 0.318
   },
   {
+    "alt": "Wide expanse of wetlands under a cloudy blue sky.",
+    "url": "https://images.unsplash.com/photo-1760259904677-b846497d712a",
+    "colorfulnees": 38.4768,
+    "meansaturation": 0.2403
+  },
+  {
     "alt": "Green rice field with misty mountains in background",
     "url": "https://images.unsplash.com/photo-1759509039941-2a590148ce1e",
     "colorfulnees": 34.4545,
@@ -70,12 +76,6 @@
     "url": "https://images.unsplash.com/photo-1758306101146-1935cabde10c",
     "colorfulnees": 23.7037,
     "meansaturation": 0.2424
-  },
-  {
-    "alt": "Grand mosque domes illuminated at night",
-    "url": "https://images.unsplash.com/photo-1758458045183-7e7c453a0580",
-    "colorfulnees": 20.8718,
-    "meansaturation": 0.283
   },
   {
     "alt": "Industrial smokestack and buildings by a river.",
