@@ -30,12 +30,6 @@
     "meansaturation": 0.413
   },
   {
-    "alt": "Intricate wooden window on a brick building",
-    "url": "https://images.unsplash.com/photo-1760366621797-403f4d375d93",
-    "colorfulnees": 50.1497,
-    "meansaturation": 0.4265
-  },
-  {
     "alt": "Badshahi mosque at sunset with dramatic sky",
     "url": "https://images.unsplash.com/photo-1758714144057-aae0194dfde5",
     "colorfulnees": 47.8893,
@@ -66,12 +60,6 @@
     "meansaturation": 0.318
   },
   {
-    "alt": "City skyline with buildings and trees at sunset.",
-    "url": "https://images.unsplash.com/photo-1760532983314-5886d351cd3f",
-    "colorfulnees": 33.2152,
-    "meansaturation": 0.2603
-  },
-  {
     "alt": "Misty mountains rise above a calm lake.",
     "url": "https://images.unsplash.com/photo-1757839723036-2b01b5211d34",
     "colorfulnees": 32.0193,
@@ -82,6 +70,12 @@
     "url": "https://images.unsplash.com/photo-1755956791198-caa9985c4d1b",
     "colorfulnees": 27.8385,
     "meansaturation": 0.1584
+  },
+  {
+    "alt": "White marble mausoleum with flowering bushes in foreground",
+    "url": "https://images.unsplash.com/photo-1755613586839-4947978800e8",
+    "colorfulnees": 23.7173,
+    "meansaturation": 0.2871
   },
   {
     "alt": "Panoramic view of a sprawling city under a cloudy sky.",
@@ -100,6 +94,12 @@
     "url": "https://images.unsplash.com/photo-1757168896284-0052b1071997",
     "colorfulnees": 21.0126,
     "meansaturation": 0.2278
+  },
+  {
+    "alt": "A hazy, overcast view of a valley with a town and lake.",
+    "url": "https://images.unsplash.com/photo-1755516047400-a0c3f367e11f",
+    "colorfulnees": 11.2206,
+    "meansaturation": 0.1235
   },
   {
     "alt": "Two mosque minarets with a bird flying.",
