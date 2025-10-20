@@ -6,10 +6,28 @@
     "meansaturation": 0.3741
   },
   {
+    "alt": "Ancient stone gateway surrounded by lush green gardens",
+    "url": "https://images.unsplash.com/photo-1760890157299-a176e50a5377",
+    "colorfulnees": 63.4514,
+    "meansaturation": 0.6321
+  },
+  {
     "alt": "Ornate mosque facade with arched walkways and reflection pool.",
     "url": "https://images.unsplash.com/photo-1758915445207-75961ba3f4e4",
     "colorfulnees": 57.4226,
     "meansaturation": 0.4227
+  },
+  {
+    "alt": "Ancient stone doorway with a path leading through greenery",
+    "url": "https://images.unsplash.com/photo-1760890154142-605d1f571ae0",
+    "colorfulnees": 55.6344,
+    "meansaturation": 0.5968
+  },
+  {
+    "alt": "Stone pathway leading to an ancient arched doorway.",
+    "url": "https://images.unsplash.com/photo-1760890157861-99dddd606eb3",
+    "colorfulnees": 52.3694,
+    "meansaturation": 0.5845
   },
   {
     "alt": "Intricate wooden window on a brick building",
@@ -22,12 +40,6 @@
     "url": "https://images.unsplash.com/photo-1760630101435-edfebd1f197c",
     "colorfulnees": 48.9388,
     "meansaturation": 0.3408
-  },
-  {
-    "alt": "Badshahi mosque at sunset with dramatic sky",
-    "url": "https://images.unsplash.com/photo-1758714144057-aae0194dfde5",
-    "colorfulnees": 47.8893,
-    "meansaturation": 0.3004
   },
   {
     "alt": "Ornate courtyard of an ancient indian palace",
@@ -54,12 +66,6 @@
     "meansaturation": 0.2403
   },
   {
-    "alt": "Busy street scene at dusk with mosque silhouette.",
-    "url": "https://images.unsplash.com/photo-1758721041367-0082f7a68cd1",
-    "colorfulnees": 35.7456,
-    "meansaturation": 0.5269
-  },
-  {
     "alt": "City skyline with buildings and trees at sunset.",
     "url": "https://images.unsplash.com/photo-1760532983314-5886d351cd3f",
     "colorfulnees": 33.2152,
@@ -76,12 +82,6 @@
     "url": "https://images.unsplash.com/photo-1758529873547-e02a73163cfe",
     "colorfulnees": 23.901,
     "meansaturation": 0.1472
-  },
-  {
-    "alt": "Industrial smokestack and buildings by a river.",
-    "url": "https://images.unsplash.com/photo-1758907452680-6f1a7aba9e5e",
-    "colorfulnees": 20.5924,
-    "meansaturation": 0.1363
   },
   {
     "alt": "Silhouetted trees line a road at sunset.",
