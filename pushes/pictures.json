@@ -1,9 +1,9 @@
 [
   {
-    "alt": "Expansive hazy cityscape viewed from a hilltop.",
-    "url": "https://images.unsplash.com/photo-1759373347617-e4a49a1744de",
-    "colorfulnees": 77.1204,
-    "meansaturation": 0.3741
+    "alt": "Ancient brick ruins with a large stupa in background.",
+    "url": "https://images.unsplash.com/photo-1757941898945-776cb3673f91",
+    "colorfulnees": 87.9617,
+    "meansaturation": 0.5505
   },
   {
     "alt": "Ancient stone gateway surrounded by lush green gardens",
@@ -30,12 +30,6 @@
     "meansaturation": 0.5845
   },
   {
-    "alt": "Intricate wooden window on a brick building",
-    "url": "https://images.unsplash.com/photo-1760366621797-403f4d375d93",
-    "colorfulnees": 50.1497,
-    "meansaturation": 0.4265
-  },
-  {
     "alt": "A cow stands in a dry, barren landscape.",
     "url": "https://images.unsplash.com/photo-1760630101435-edfebd1f197c",
     "colorfulnees": 48.9388,
@@ -54,16 +48,22 @@
     "meansaturation": 0.3535
   },
   {
-    "alt": "Green double doors set in a weathered brick wall.",
-    "url": "https://images.unsplash.com/photo-1759304428387-fa9f1648a505",
-    "colorfulnees": 43.2296,
-    "meansaturation": 0.3141
+    "alt": "Golden temple complex reflected in water under blue sky.",
+    "url": "https://images.unsplash.com/photo-1757552528851-378540b9ae17",
+    "colorfulnees": 40.5162,
+    "meansaturation": 0.2532
   },
   {
-    "alt": "Wide expanse of wetlands under a cloudy blue sky.",
-    "url": "https://images.unsplash.com/photo-1760259904677-b846497d712a",
-    "colorfulnees": 38.4768,
-    "meansaturation": 0.2403
+    "alt": "Grand colonnade opens to ornate building and gardens.",
+    "url": "https://images.unsplash.com/photo-1758413352669-dbde0af19b95",
+    "colorfulnees": 39.6715,
+    "meansaturation": 0.318
+  },
+  {
+    "alt": "Misty mountains rise behind a road with streetlights.",
+    "url": "https://images.unsplash.com/photo-1757840971837-d5df966935bd",
+    "colorfulnees": 39.4713,
+    "meansaturation": 0.3482
   },
   {
     "alt": "City skyline with buildings and trees at sunset.",
@@ -72,10 +72,10 @@
     "meansaturation": 0.2603
   },
   {
-    "alt": "Two camels loaded with goods near a body of water.",
-    "url": "https://images.unsplash.com/photo-1759459295621-50110405a4bc",
-    "colorfulnees": 32.8149,
-    "meansaturation": 0.2404
+    "alt": "Misty mountains rise above a calm lake.",
+    "url": "https://images.unsplash.com/photo-1757839723036-2b01b5211d34",
+    "colorfulnees": 32.0193,
+    "meansaturation": 0.2
   },
   {
     "alt": "An abandoned train car sits among overgrown bushes.",
@@ -84,16 +84,22 @@
     "meansaturation": 0.1472
   },
   {
-    "alt": "Silhouetted trees line a road at sunset.",
-    "url": "https://images.unsplash.com/photo-1759483054634-ad1d77d4988e",
-    "colorfulnees": 13.8208,
-    "meansaturation": 0.1158
+    "alt": "Panoramic view of a sprawling city under a cloudy sky.",
+    "url": "https://images.unsplash.com/photo-1758306101146-1935cabde10c",
+    "colorfulnees": 23.7037,
+    "meansaturation": 0.2424
   },
   {
-    "alt": "Ornate white building facade with arched windows and clock.",
-    "url": "https://images.unsplash.com/photo-1759863468614-3cf8140fd900",
-    "colorfulnees": 9.9648,
-    "meansaturation": 0.1196
+    "alt": "Grand building with symmetrical towers and manicured lawn.",
+    "url": "https://images.unsplash.com/photo-1757494792285-c7032f9918eb",
+    "colorfulnees": 23.1856,
+    "meansaturation": 0.1199
+  },
+  {
+    "alt": "Industrial cranes and buildings under a purple sky.",
+    "url": "https://images.unsplash.com/photo-1757838411405-6665b47ee45a",
+    "colorfulnees": 22.5699,
+    "meansaturation": 0.1895
   },
   {
     "alt": "Tall marble minaret against a cloudy sky",
