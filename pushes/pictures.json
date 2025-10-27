@@ -106,5 +106,11 @@
     "url": "https://images.unsplash.com/photo-1761375451879-385ef9231d97",
     "colorfulnees": 8.8255,
     "meansaturation": 0.0898
+  },
+  {
+    "alt": "Ancient tomb with arched entrances and dome",
+    "url": "https://images.unsplash.com/photo-1761375451878-769f216606cc",
+    "colorfulnees": 0.0,
+    "meansaturation": 0.0
   }
 ]
