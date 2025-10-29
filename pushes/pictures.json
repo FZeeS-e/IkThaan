@@ -12,12 +12,6 @@
     "meansaturation": 0.3587
   },
   {
-    "alt": "Illuminated building reflected in dark water at night",
-    "url": "https://images.unsplash.com/photo-1761600200240-3d613d3ea85f",
-    "colorfulnees": 58.1359,
-    "meansaturation": 0.3569
-  },
-  {
     "alt": "Bhutan and india flags on a dashboard",
     "url": "https://images.unsplash.com/photo-1761048163208-5588e188f19e",
     "colorfulnees": 56.8113,
@@ -76,6 +70,12 @@
     "url": "https://images.unsplash.com/photo-1761484085572-8ea0d71f38e3",
     "colorfulnees": 37.2615,
     "meansaturation": 0.2856
+  },
+  {
+    "alt": "Ornate wooden window with red curtains on white wall",
+    "url": "https://images.unsplash.com/photo-1761048802719-6bbb68373037",
+    "colorfulnees": 36.8203,
+    "meansaturation": 0.3244
   },
   {
     "alt": "A road winds through a rural landscape at sunset.",
