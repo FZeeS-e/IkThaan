@@ -6,10 +6,10 @@
     "meansaturation": 0.3792
   },
   {
-    "alt": "Ancient stone gateway surrounded by lush green gardens",
-    "url": "https://images.unsplash.com/photo-1760890157299-a176e50a5377",
-    "colorfulnees": 63.4514,
-    "meansaturation": 0.6321
+    "alt": "Urban cityscape with stadium and buildings under-construction buildings.",
+    "url": "https://images.unsplash.com/photo-1761342612887-5b6912ab7598",
+    "colorfulnees": 60.445,
+    "meansaturation": 0.3587
   },
   {
     "alt": "Illuminated building reflected in dark water at night",
@@ -36,18 +36,6 @@
     "meansaturation": 0.5845
   },
   {
-    "alt": "A cow stands in a dry, barren landscape.",
-    "url": "https://images.unsplash.com/photo-1760630101435-edfebd1f197c",
-    "colorfulnees": 48.9388,
-    "meansaturation": 0.3408
-  },
-  {
-    "alt": "Ornate courtyard of an ancient indian palace",
-    "url": "https://images.unsplash.com/photo-1759387758817-1a1861261963",
-    "colorfulnees": 47.6642,
-    "meansaturation": 0.3048
-  },
-  {
     "alt": "Arched bridge spanning a calm river with lush greenery.",
     "url": "https://images.unsplash.com/photo-1761483282542-f23b232563aa",
     "colorfulnees": 47.5742,
@@ -60,10 +48,34 @@
     "meansaturation": 0.3535
   },
   {
+    "alt": "Long arched bridge over a wide river with vegetation.",
+    "url": "https://images.unsplash.com/photo-1761483282387-c0adff5e802d",
+    "colorfulnees": 40.7626,
+    "meansaturation": 0.3159
+  },
+  {
+    "alt": "A historic pavilion on a bridge over water.",
+    "url": "https://images.unsplash.com/photo-1761304458796-f5c4b57da00c",
+    "colorfulnees": 39.7851,
+    "meansaturation": 0.2736
+  },
+  {
+    "alt": "The golden temple complex reflected in the water",
+    "url": "https://images.unsplash.com/photo-1760943055882-1dc68e4f7440",
+    "colorfulnees": 38.0757,
+    "meansaturation": 0.2254
+  },
+  {
     "alt": "Ruined stone tower against a clear sky",
     "url": "https://images.unsplash.com/photo-1761037203078-96a03175928b",
     "colorfulnees": 38.0742,
     "meansaturation": 0.2162
+  },
+  {
+    "alt": "Arch bridge over a wide river with trees and vegetation.",
+    "url": "https://images.unsplash.com/photo-1761484085572-8ea0d71f38e3",
+    "colorfulnees": 37.2615,
+    "meansaturation": 0.2856
   },
   {
     "alt": "A road winds through a rural landscape at sunset.",
@@ -78,28 +90,16 @@
     "meansaturation": 0.2321
   },
   {
-    "alt": "City skyline with buildings and trees at sunset.",
-    "url": "https://images.unsplash.com/photo-1760532983314-5886d351cd3f",
-    "colorfulnees": 33.2152,
-    "meansaturation": 0.2603
-  },
-  {
     "alt": "A mosque with minarets and palm trees under cloudy sky",
     "url": "https://images.unsplash.com/photo-1760977885246-54321d450ef4",
     "colorfulnees": 29.472,
     "meansaturation": 0.2352
   },
   {
-    "alt": "A calm river flows through a grassy landscape.",
-    "url": "https://images.unsplash.com/photo-1761484085295-f08efb81caf9",
-    "colorfulnees": 14.483,
-    "meansaturation": 0.1403
-  },
-  {
-    "alt": "Ornate white building facade with arched windows and clock.",
-    "url": "https://images.unsplash.com/photo-1759863468614-3cf8140fd900",
-    "colorfulnees": 9.9648,
-    "meansaturation": 0.1196
+    "alt": "Historic building with arched doorways and intricate details",
+    "url": "https://images.unsplash.com/photo-1761375451879-385ef9231d97",
+    "colorfulnees": 8.8255,
+    "meansaturation": 0.0898
   },
   {
     "alt": "Ancient tomb with arched entrances and dome",
