@@ -30,6 +30,12 @@
     "meansaturation": 0.5968
   },
   {
+    "alt": "Stone pathway leading to an ancient arched doorway.",
+    "url": "https://images.unsplash.com/photo-1760890157861-99dddd606eb3",
+    "colorfulnees": 52.3694,
+    "meansaturation": 0.5845
+  },
+  {
     "alt": "Arched bridge spanning a calm river with lush greenery.",
     "url": "https://images.unsplash.com/photo-1761483282542-f23b232563aa",
     "colorfulnees": 47.5742,
@@ -90,22 +96,10 @@
     "meansaturation": 0.2352
   },
   {
-    "alt": "Overcast sky above a sprawling town in a valley.",
-    "url": "https://images.unsplash.com/photo-1761761148449-dd329b3e3742",
-    "colorfulnees": 28.1688,
-    "meansaturation": 0.2756
-  },
-  {
     "alt": "Historic building with arched doorways and intricate details",
     "url": "https://images.unsplash.com/photo-1761375451879-385ef9231d97",
     "colorfulnees": 8.8255,
     "meansaturation": 0.0898
-  },
-  {
-    "alt": "Tall concrete water tower against a cloudy sky.",
-    "url": "https://images.unsplash.com/photo-1761811216117-18b4bfa052b4",
-    "colorfulnees": 0.0,
-    "meansaturation": 0.0
   },
   {
     "alt": "Ancient tomb with arched entrances and dome",
