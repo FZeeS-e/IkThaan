@@ -42,6 +42,12 @@
     "meansaturation": 0.2736
   },
   {
+    "alt": "The golden temple complex reflected in the water",
+    "url": "https://images.unsplash.com/photo-1760943055882-1dc68e4f7440",
+    "colorfulnees": 38.0757,
+    "meansaturation": 0.2254
+  },
+  {
     "alt": "Ruined stone tower against a clear sky",
     "url": "https://images.unsplash.com/photo-1761037203078-96a03175928b",
     "colorfulnees": 38.0742,
@@ -110,12 +116,6 @@
   {
     "alt": "Tall concrete water tower against a cloudy sky.",
     "url": "https://images.unsplash.com/photo-1761811216117-18b4bfa052b4",
-    "colorfulnees": 0.0,
-    "meansaturation": 0.0
-  },
-  {
-    "alt": "Ancient tomb with arched entrances and dome",
-    "url": "https://images.unsplash.com/photo-1761375451878-769f216606cc",
     "colorfulnees": 0.0,
     "meansaturation": 0.0
   }
