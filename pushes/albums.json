@@ -9,20 +9,173 @@
     "albumType": "single"
   },
   {
-    "id": "1848381940",
-    "name": "KALA JADOO - Single",
-    "artist": "Armaan Gill & Arnaaz Gill",
-    "url": "https://music.apple.com/ca/album/1848381940",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/7d/c4/757dc42e-3ae2-3229-8705-49e819d8f41a/be43630d-be9c-442c-8442-1d830249feda.jpg/2999x2999bb.jpg",
+    "id": "1846746123",
+    "name": "First Step - Single",
+    "artist": "Sehaj Rana",
+    "url": "https://music.apple.com/ca/album/1846746123",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/0e/07/cc0e07da-93e0-3349-288a-bee87a6f9647/8909483003428.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-01",
+    "albumType": "single"
+  },
+  {
+    "id": "1841002648",
+    "name": "Into the Silence - Single",
+    "artist": "Parwaaz Nagm",
+    "url": "https://music.apple.com/ca/album/1841002648",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/65/42/396542fb-ae06-d3b0-6449-d49d7ba4364f/859717971734_cover.jpg/1400x1400bb.jpg",
     "releaseDate": "2025-10-31",
     "albumType": "single"
   },
   {
-    "id": "1844298414",
-    "name": "Kasoor (feat. A.C.I.D.) - Single",
-    "artist": "ARBAZ",
-    "url": "https://music.apple.com/ca/album/1844298414",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/45/70/d3457003-5426-0da0-37a6-17681abf1f58/859719456338_cover.jpg/1400x1400bb.jpg",
+    "id": "1849610057",
+    "name": "City Boys - Single",
+    "artist": "Kamal Sanghera",
+    "url": "https://music.apple.com/ca/album/1849610057",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/e7/64/b6e76401-fd14-9a49-d9ee-ebaf55d2499a/199199972691.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1849113442",
+    "name": "Kirpa Rakhi - Single",
+    "artist": "Riya Boparai & DesiFrenzy",
+    "url": "https://music.apple.com/ca/album/1849113442",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/87/85/03878524-2e44-deed-6ee6-286da7c92ef1/8905285282887.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1848855442",
+    "name": "Rule - Single",
+    "artist": "Aman Kalyan",
+    "url": "https://music.apple.com/ca/album/1848855442",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/b1/3a/b4b13a4d-3ff6-b310-1cc2-5addd1ae3368/5054197589546.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1847449870",
+    "name": "Janam - Single",
+    "artist": "Sidhu Satnam",
+    "url": "https://music.apple.com/ca/album/1847449870",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/a0/a4/33a0a461-4dff-bc59-3c47-13ff76c14093/8909483000588.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1849600864",
+    "name": "Lemme Say - Single",
+    "artist": "Davtej Bhangu & Kamal Sanghera",
+    "url": "https://music.apple.com/ca/album/1849600864",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/46/d8/ad46d8c6-ad69-8c8b-715c-caa2947fbca0/198877365671.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1846060986",
+    "name": "Putt Rani Da - Single",
+    "artist": "SEKHON LOVELY",
+    "url": "https://music.apple.com/ca/album/1846060986",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/8f/a1/528fa16a-3393-ecb4-3011-de6bf21d0d2a/859720141131_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1844266888",
+    "name": "Even God Was Involved - Single",
+    "artist": "Sanghera",
+    "url": "https://music.apple.com/ca/album/1844266888",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/20/39/f920394d-108b-277f-d3c3-35957b2a1fd4/859719439577_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1849601337",
+    "name": "Gonna Slay - Single",
+    "artist": "Jassa Taggar",
+    "url": "https://music.apple.com/ca/album/1849601337",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/33/b9/fe33b9ed-8f1d-1bdd-eb40-eb42e9fc55fe/7300346541100.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1848841558",
+    "name": "Je tu na mila - Single",
+    "artist": "NAWAZ",
+    "url": "https://music.apple.com/ca/album/1848841558",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/23/bc/da23bc19-8bac-aa23-fdd7-9783249d3440/8909483071410.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1849143537",
+    "name": "Husnn - Single",
+    "artist": "Sher",
+    "url": "https://music.apple.com/ca/album/1849143537",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/7f/5e/7d7f5e9a-8c90-a834-5621-49dd54daf699/8909483100226.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1848488675",
+    "name": "Kol Nahi Rehna - Single",
+    "artist": "Nav Madoke",
+    "url": "https://music.apple.com/ca/album/1848488675",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/be/5e/8bbe5edb-47df-c14b-a7ca-8a34c9baca1c/859720950658_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1849617306",
+    "name": "Aa Ja Diljaaniya Female Version - Single",
+    "artist": "Arvinder Kaur",
+    "url": "https://music.apple.com/ca/album/1849617306",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/96/e4/c596e476-fe19-b918-9b2d-abc53654ed10/8909194093114.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1849600908",
+    "name": "Barbie Doll - Single",
+    "artist": "Kamal Sanghera",
+    "url": "https://music.apple.com/ca/album/1849600908",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/35/a6/8835a6e0-e24c-468e-4d15-3c5105e3e93a/5063654919826.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1846290551",
+    "name": "Uniqueness - Single",
+    "artist": "Tushar Verma, Cheetah & Kaptaan",
+    "url": "https://music.apple.com/ca/album/1846290551",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d6/cb/c9d6cb32-7d32-3fab-a14e-609c69a9bbf8/8905285280883.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1848597942",
+    "name": "Own talks - Single",
+    "artist": "Edward Bali",
+    "url": "https://music.apple.com/ca/album/1848597942",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/6f/1a/766f1a12-f1b8-3b1a-9705-540dcf2fe636/8909483070536.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1847604956",
+    "name": "Paper - Single",
+    "artist": "Husan & Sultaan",
+    "url": "https://music.apple.com/ca/album/1847604956",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/6e/4f/a76e4f5c-f4e0-75f4-234f-6b7584ac8e60/6161135783887.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-31",
+    "albumType": "single"
+  },
+  {
+    "id": "1844864579",
+    "name": "Ghost - Single",
+    "artist": "Raja Game Changerz",
+    "url": "https://music.apple.com/ca/album/1844864579",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/2a/3b/922a3b23-7c22-5d47-1b59-8608df903339/8905285280296.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-10-30",
     "albumType": "single"
   },
@@ -36,20 +189,20 @@
     "albumType": "single"
   },
   {
-    "id": "1844145603",
-    "name": "Muhabbat - Single",
-    "artist": "Mr. A.R",
-    "url": "https://music.apple.com/ca/album/1844145603",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/66/77/bd6677e2-fd55-ed10-b785-df87758a094a/859719377985_cover.jpg/1400x1400bb.jpg",
+    "id": "1849434442",
+    "name": "Eye Gestures - Single",
+    "artist": "Harsh Dhir",
+    "url": "https://music.apple.com/ca/album/1849434442",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/84/c8/ba84c8a2-4887-a57a-eba2-33f854d6afb3/859721245654_cover.jpg/1400x1400bb.jpg",
     "releaseDate": "2025-10-30",
     "albumType": "single"
   },
   {
-    "id": "1844864579",
-    "name": "Ghost - Single",
-    "artist": "Raja Game Changerz",
-    "url": "https://music.apple.com/ca/album/1844864579",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/2a/3b/922a3b23-7c22-5d47-1b59-8608df903339/8905285280296.jpg/3000x3000bb.jpg",
+    "id": "1844298414",
+    "name": "Kasoor (feat. A.C.I.D.) - Single",
+    "artist": "ARBAZ",
+    "url": "https://music.apple.com/ca/album/1844298414",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/45/70/d3457003-5426-0da0-37a6-17681abf1f58/859719456338_cover.jpg/1400x1400bb.jpg",
     "releaseDate": "2025-10-30",
     "albumType": "single"
   },
@@ -59,6 +212,51 @@
     "artist": "Harp Sandhu & Milli Muzik",
     "url": "https://music.apple.com/ca/album/1846785413",
     "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a9/4e/29a94e54-9808-f7a7-c4c4-ee3698863ab7/859720391321_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-10-30",
+    "albumType": "single"
+  },
+  {
+    "id": "1844145603",
+    "name": "Muhabbat - Single",
+    "artist": "Mr. A.R",
+    "url": "https://music.apple.com/ca/album/1844145603",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/66/77/bd6677e2-fd55-ed10-b785-df87758a094a/859719377985_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-10-30",
+    "albumType": "single"
+  },
+  {
+    "id": "1848349198",
+    "name": "Lakadbaggey (Original Motion Picture Soundtrack) - EP",
+    "artist": "Saga Sounds, K.D Alam & Navi Ferozpurwala",
+    "url": "https://music.apple.com/ca/album/1848349198",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/85/34/9e8534bd-cca4-c265-059f-977a7fb116a5/Lakadbaggey-Full_Album_Inlay.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-30",
+    "albumType": "ep"
+  },
+  {
+    "id": "1849419601",
+    "name": "Meri Jaan - Single",
+    "artist": "Sidhu Satnam",
+    "url": "https://music.apple.com/ca/album/1849419601",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/e5/a1/93e5a111-8332-cafa-aa27-112934cf4c77/8909423990979.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-30",
+    "albumType": "single"
+  },
+  {
+    "id": "1848384166",
+    "name": "4-5 Yaar jatt de - Single",
+    "artist": "Rdk Gaggi",
+    "url": "https://music.apple.com/ca/album/1848384166",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/5b/c3/e35bc3ec-c7f8-4684-a9a2-2f2c2484113c/8909483068885.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-10-30",
+    "albumType": "single"
+  },
+  {
+    "id": "1849662063",
+    "name": "Bhoot Bhangra (From Happy Khush Ho Gaya) - Single",
+    "artist": "Kambi Rajpuria, Avvy Sra & Khara",
+    "url": "https://music.apple.com/ca/album/1849662063",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/85/70/8d8570e7-9dd3-a3d6-c9ea-c2511ab5cb28/6161135810675.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-10-30",
     "albumType": "single"
   },
@@ -78,42 +276,6 @@
     "url": "https://music.apple.com/ca/album/1849070072",
     "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/0f/f5/ef0ff576-55b9-6b09-655b-41de36c40a6e/8905713962169_cover.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-10-30",
-    "albumType": "single"
-  },
-  {
-    "id": "1849084776",
-    "name": "Kudrat (Karan Prince) - Single",
-    "artist": "Shamsher Shamu",
-    "url": "https://music.apple.com/ca/album/1849084776",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/b0/18/d0b01881-67a4-c58f-f33f-e993874d1b0e/8905713962114_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-10-29",
-    "albumType": "single"
-  },
-  {
-    "id": "1847321990",
-    "name": "YES OR NO - Single",
-    "artist": "Raporrate & The Bhamrah",
-    "url": "https://music.apple.com/ca/album/1847321990",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/a1/04/a6a10465-a4e7-c6b9-4cda-b788669de677/8909483033760.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-10-29",
-    "albumType": "single"
-  },
-  {
-    "id": "1848436687",
-    "name": "Flexflow - Single",
-    "artist": "Love Gill",
-    "url": "https://music.apple.com/ca/album/1848436687",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3c/cf/0e3ccfe6-ddc6-ce09-b53b-90148b7ca803/859720925694_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-10-29",
-    "albumType": "single"
-  },
-  {
-    "id": "1845852558",
-    "name": "Bemisaal - Single",
-    "artist": "Garima",
-    "url": "https://music.apple.com/ca/album/1845852558",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/2f/39/812f3960-1857-c2d0-ca92-a0e5585ad017/Bemisaal-Inlay.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-10-29",
     "albumType": "single"
   }
 ]
