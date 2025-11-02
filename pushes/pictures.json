@@ -6,12 +6,6 @@
     "meansaturation": 0.4237
   },
   {
-    "alt": "City skyline with modern buildings and a stadium.",
-    "url": "https://images.unsplash.com/photo-1761342612975-36bad384ecd4",
-    "colorfulnees": 67.6407,
-    "meansaturation": 0.3792
-  },
-  {
     "alt": "Illuminated building reflected in dark water at night",
     "url": "https://images.unsplash.com/photo-1761600200240-3d613d3ea85f",
     "colorfulnees": 58.1359,
@@ -22,12 +16,6 @@
     "url": "https://images.unsplash.com/photo-1761048163208-5588e188f19e",
     "colorfulnees": 56.8113,
     "meansaturation": 0.3901
-  },
-  {
-    "alt": "Ancient stone doorway with a path leading through greenery",
-    "url": "https://images.unsplash.com/photo-1760890154142-605d1f571ae0",
-    "colorfulnees": 55.6344,
-    "meansaturation": 0.5968
   },
   {
     "alt": "Equestrian statue with building and orange flag",
@@ -42,10 +30,16 @@
     "meansaturation": 0.3642
   },
   {
-    "alt": "Ornate entryway with patterned tiles and columns",
-    "url": "https://images.unsplash.com/photo-1760681556948-40cd26936ebc",
-    "colorfulnees": 46.0844,
-    "meansaturation": 0.3535
+    "alt": "Long arched bridge over a wide river with vegetation.",
+    "url": "https://images.unsplash.com/photo-1761483282387-c0adff5e802d",
+    "colorfulnees": 40.7626,
+    "meansaturation": 0.3159
+  },
+  {
+    "alt": "A historic pavilion on a bridge over water.",
+    "url": "https://images.unsplash.com/photo-1761304458796-f5c4b57da00c",
+    "colorfulnees": 39.7851,
+    "meansaturation": 0.2736
   },
   {
     "alt": "The golden temple complex reflected in the water",
@@ -58,6 +52,18 @@
     "url": "https://images.unsplash.com/photo-1761037203078-96a03175928b",
     "colorfulnees": 38.0742,
     "meansaturation": 0.2162
+  },
+  {
+    "alt": "Arch bridge over a wide river with trees and vegetation.",
+    "url": "https://images.unsplash.com/photo-1761484085572-8ea0d71f38e3",
+    "colorfulnees": 37.2615,
+    "meansaturation": 0.2856
+  },
+  {
+    "alt": "Golden temple complex at dusk with soft sky.",
+    "url": "https://images.unsplash.com/photo-1761924470298-b81a1c1440c5",
+    "colorfulnees": 36.2321,
+    "meansaturation": 0.2766
   },
   {
     "alt": "Red jeep on a sandy beach with ocean waves",
@@ -78,6 +84,12 @@
     "meansaturation": 0.2321
   },
   {
+    "alt": "Orange flag waving on a flagpole against clear sky",
+    "url": "https://images.unsplash.com/photo-1761958150660-0c3691fda95d",
+    "colorfulnees": 29.7487,
+    "meansaturation": 0.2499
+  },
+  {
     "alt": "A mosque with minarets and palm trees under cloudy sky",
     "url": "https://images.unsplash.com/photo-1760977885246-54321d450ef4",
     "colorfulnees": 29.472,
@@ -96,20 +108,14 @@
     "meansaturation": 0.1683
   },
   {
-    "alt": "A calm river flows through a grassy landscape.",
-    "url": "https://images.unsplash.com/photo-1761484085295-f08efb81caf9",
-    "colorfulnees": 14.483,
-    "meansaturation": 0.1403
+    "alt": "Historic building with arched doorways and intricate details",
+    "url": "https://images.unsplash.com/photo-1761375451879-385ef9231d97",
+    "colorfulnees": 8.8255,
+    "meansaturation": 0.0898
   },
   {
     "alt": "Tall concrete water tower against a cloudy sky.",
     "url": "https://images.unsplash.com/photo-1761811216117-18b4bfa052b4",
-    "colorfulnees": 0.0,
-    "meansaturation": 0.0
-  },
-  {
-    "alt": "Ancient tomb with arched entrances and dome",
-    "url": "https://images.unsplash.com/photo-1761375451878-769f216606cc",
     "colorfulnees": 0.0,
     "meansaturation": 0.0
   }
