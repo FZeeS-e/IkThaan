@@ -12,6 +12,12 @@
     "meansaturation": 0.3569
   },
   {
+    "alt": "Mural of a king with a fortress in background",
+    "url": "https://images.unsplash.com/photo-1762006222917-ab457593fbe9",
+    "colorfulnees": 57.7214,
+    "meansaturation": 0.3067
+  },
+  {
     "alt": "Bhutan and india flags on a dashboard",
     "url": "https://images.unsplash.com/photo-1761048163208-5588e188f19e",
     "colorfulnees": 56.8113,
@@ -42,10 +48,10 @@
     "meansaturation": 0.2736
   },
   {
-    "alt": "Ruined stone tower against a clear sky",
-    "url": "https://images.unsplash.com/photo-1761037203078-96a03175928b",
-    "colorfulnees": 38.0742,
-    "meansaturation": 0.2162
+    "alt": "The golden temple complex reflected in the water",
+    "url": "https://images.unsplash.com/photo-1760943055882-1dc68e4f7440",
+    "colorfulnees": 38.0757,
+    "meansaturation": 0.2254
   },
   {
     "alt": "Arch bridge over a wide river with trees and vegetation.",
@@ -84,12 +90,6 @@
     "meansaturation": 0.2499
   },
   {
-    "alt": "A mosque with minarets and palm trees under cloudy sky",
-    "url": "https://images.unsplash.com/photo-1760977885246-54321d450ef4",
-    "colorfulnees": 29.472,
-    "meansaturation": 0.2352
-  },
-  {
     "alt": "Overcast sky above a sprawling town in a valley.",
     "url": "https://images.unsplash.com/photo-1761761148449-dd329b3e3742",
     "colorfulnees": 28.1688,
@@ -102,20 +102,14 @@
     "meansaturation": 0.1683
   },
   {
-    "alt": "Historic building with arched doorways and intricate details",
-    "url": "https://images.unsplash.com/photo-1761375451879-385ef9231d97",
-    "colorfulnees": 8.8255,
-    "meansaturation": 0.0898
-  },
-  {
     "alt": "Tall concrete water tower against a cloudy sky.",
     "url": "https://images.unsplash.com/photo-1761811216117-18b4bfa052b4",
     "colorfulnees": 0.0,
     "meansaturation": 0.0
   },
   {
-    "alt": "Ancient tomb with arched entrances and dome",
-    "url": "https://images.unsplash.com/photo-1761375451878-769f216606cc",
+    "alt": "Chariot sculpture at parmarth niketan at night",
+    "url": "https://images.unsplash.com/photo-1762005662451-b6bbf4d23fd5",
     "colorfulnees": 0.0,
     "meansaturation": 0.0
   }
