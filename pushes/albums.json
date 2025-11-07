@@ -1,11 +1,155 @@
 [
   {
+    "id": "1850910374",
+    "name": "Chorni - Single",
+    "artist": "pavn",
+    "url": "https://music.apple.com/ca/album/1850910374",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/99/07/e99907c2-a7d6-8741-7e5d-c9995b5cdd77/8902633374164.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-10",
+    "albumType": "single"
+  },
+  {
+    "id": "1850472241",
+    "name": "Story - Single",
+    "artist": "Gill Saab",
+    "url": "https://music.apple.com/ca/album/1850472241",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/3e/9a/6d3e9aed-603a-3bf9-f36d-7152784e608c/8909483161760.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1850441850",
+    "name": "Kabra Tak - Single",
+    "artist": "Sukhwinder Kashyap",
+    "url": "https://music.apple.com/ca/album/1850441850",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/e2/ca/70e2ca14-deb7-5bca-c100-8b149e43a92d/859721586627_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
     "id": "1849225023",
     "name": "Piche Tere - Single",
     "artist": "Kunwarr",
     "url": "https://music.apple.com/ca/album/1849225023",
     "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/e2/29/3de22919-028e-67e6-29e1-bc8abcc5437f/8902633377431.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1850155261",
+    "name": "Satsang Vich Ghadiya Gujariya - Single",
+    "artist": "SHRIMAN DAVINDER DASS",
+    "url": "https://music.apple.com/ca/album/1850155261",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/b7/4d/16b74d0c-3609-b8c7-aac9-c8ff91aa6e05/8909483146996.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1848376330",
+    "name": "100/5 - Single",
+    "artist": "Harsh Ghotra, Jang Dhillon & Beatcop",
+    "url": "https://music.apple.com/ca/album/1848376330",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/0a/89/030a898f-6d65-dc51-8f0a-1abeb994248b/194608002563.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1850921947",
+    "name": "Graph - EP",
+    "artist": "Ranjit Bawa, Bunty Bains & 품바21",
+    "url": "https://music.apple.com/ca/album/1850921947",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/9e/26789ef3-81d4-d9cf-e435-e138031b6938/8902633377783.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "ep"
+  },
+  {
+    "id": "1850711502",
+    "name": "Wakanda - Single",
+    "artist": "Hassan Bin Aziz",
+    "url": "https://music.apple.com/ca/album/1850711502",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/ed/ee/94edee4b-cfe4-9af3-e05c-246a9d1f766e/8721416666537.png/3000x3000bb.png",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1848392806",
+    "name": "Yaari Unlimited - Single",
+    "artist": "Groovy K",
+    "url": "https://music.apple.com/ca/album/1848392806",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/8b/db/668bdb2a-4aba-a989-3005-5ec31120a5fb/5026854163888.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1848066013",
+    "name": "KAMLI - Single",
+    "artist": "CJ Salan, Sania Salan & Jam Aunni",
+    "url": "https://music.apple.com/ca/album/1848066013",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/ed/4b/c4ed4b26-a5cc-cafa-c912-dfa49a760a76/8905285281880.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1850929177",
+    "name": "Mere Yasu Aa - Single",
+    "artist": "Arslan John",
+    "url": "https://music.apple.com/ca/album/1850929177",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/a3/0f/33a30f8a-9f8c-0c32-cbec-7eda416e71cf/859721722735_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1847601586",
+    "name": "Raffal - Single",
+    "artist": "Sehaj Singh Gill",
+    "url": "https://music.apple.com/ca/album/1847601586",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/18/d5/3718d5b5-06f3-9bc5-caca-ea2542043c4c/859720693685_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1850737834",
+    "name": "Sokhi Na Drivery - Single",
+    "artist": "Honey Sharma",
+    "url": "https://music.apple.com/ca/album/1850737834",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/b7/bb/07b7bb9a-2d6d-2fe4-e454-311258bb7833/8909483176337.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-06",
+    "albumType": "single"
+  },
+  {
+    "id": "1845569875",
+    "name": "Brave Panjaab - Single",
+    "artist": "Mannie Sandhu",
+    "url": "https://music.apple.com/ca/album/1845569875",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/9b/c1/129bc1f0-88c1-344a-9cd4-1d9f7efedd4e/859719955008_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1850943850",
+    "name": "Mere Sahib - Single",
+    "artist": "カマル・カーン & Dharam Seva",
+    "url": "https://music.apple.com/ca/album/1850943850",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/3e/68/1d3e68e8-eb64-2570-213c-cf567e05062b/5e95fe6a-6b3c-4606-b7d4-f0049a4f9012.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1850927010",
+    "name": "Jaanu Jaanu - Single",
+    "artist": "Bunty Gagat & Happy Bawa",
+    "url": "https://music.apple.com/ca/album/1850927010",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/fc/c8/77fcc87f-60b9-094f-cd4f-987f03dbc25d/8909483187593.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1850719701",
+    "name": "Hold Me - Single",
+    "artist": "Savvy Dadwal",
+    "url": "https://music.apple.com/ca/album/1850719701",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/9f/1d/729f1df7-d612-8989-8633-97e9693dd334/859721656436_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-05",
     "albumType": "single"
   },
   {
@@ -27,74 +171,20 @@
     "albumType": "single"
   },
   {
-    "id": "1850154779",
-    "name": "TERE NAAL REHNA SATGURU - EP",
-    "artist": "Amaan Ali Khan Qawwal",
-    "url": "https://music.apple.com/ca/album/1850154779",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/1d/25/881d256f-83f4-daeb-0319-c6f88a60616d/8909483146965.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-05",
-    "albumType": "ep"
-  },
-  {
-    "id": "1849099222",
-    "name": "Nakhra High - Single",
-    "artist": "Babbu Gill",
-    "url": "https://music.apple.com/ca/album/1849099222",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/bf/14/4bbf147f-92f9-42c8-1488-1e49d8ab2e07/8909194092285.jpg/3000x3000bb.jpg",
+    "id": "1850107958",
+    "name": "dil beiman - Single",
+    "artist": "Rdk Gaggi",
+    "url": "https://music.apple.com/ca/album/1850107958",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/fd/dd/bbfdddfe-d4c4-fcd8-17c2-daf679fbdd6f/8909483087459.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-05",
     "albumType": "single"
   },
   {
-    "id": "1850108847",
-    "name": "Jogi Wala Rang - Single",
-    "artist": "Miss Anu",
-    "url": "https://music.apple.com/ca/album/1850108847",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/bf/8f/f5bf8f3c-7a3c-2f24-5d03-188590c923a1/8909483131664.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-05",
-    "albumType": "single"
-  },
-  {
-    "id": "1845569875",
-    "name": "Brave Panjaab - Single",
-    "artist": "Mannie Sandhu",
-    "url": "https://music.apple.com/ca/album/1845569875",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/9b/c1/129bc1f0-88c1-344a-9cd4-1d9f7efedd4e/859719955008_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-05",
-    "albumType": "single"
-  },
-  {
-    "id": "1850601107",
-    "name": "Ydk - Single",
-    "artist": "REAL THUG 47 & Bilawal Qureshi",
-    "url": "https://music.apple.com/ca/album/1850601107",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/bd/48/edbd484e-7b36-8ae3-4dfb-8b9d101e2424/859721628365_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-05",
-    "albumType": "single"
-  },
-  {
-    "id": "1846396953",
-    "name": "Mera Mahi - Single",
-    "artist": "Param & Manni Sandhu",
-    "url": "https://music.apple.com/ca/album/1846396953",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/3e/61/123e6100-6c91-0b09-2c68-489f9f6c46d0/199806146798.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-05",
-    "albumType": "single"
-  },
-  {
-    "id": "1848731185",
-    "name": "Ik Geet - Single",
-    "artist": "Shubhu Rana",
-    "url": "https://music.apple.com/ca/album/1848731185",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/d2/dc/1ed2dc5b-9cbb-0896-11fd-916097072ee0/663918618608.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-05",
-    "albumType": "single"
-  },
-  {
-    "id": "1850719701",
-    "name": "Hold Me - Single",
-    "artist": "Savvy Dadwal",
-    "url": "https://music.apple.com/ca/album/1850719701",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/9f/1d/729f1df7-d612-8989-8633-97e9693dd334/859721656436_cover.jpg/1400x1400bb.jpg",
+    "id": "1850155518",
+    "name": "TERA MANN TAN KARE CHATURAIYAN MUHO RHE NAAM JAPDA - Single",
+    "artist": "maninder banger",
+    "url": "https://music.apple.com/ca/album/1850155518",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/0a/8b/270a8bc8-ebb7-ff28-1377-f60626c462c5/8909483147016.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-05",
     "albumType": "single"
   },
@@ -108,11 +198,29 @@
     "albumType": "single"
   },
   {
-    "id": "1850662387",
-    "name": "Viahi Bethi - Single",
-    "artist": "Mani Bhawanigarh",
-    "url": "https://music.apple.com/ca/album/1850662387",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/70/0b/95700b33-1206-225e-12b9-ae6a2338ab60/8905285283525.jpg/3000x3000bb.jpg",
+    "id": "1849099222",
+    "name": "Nakhra High - Single",
+    "artist": "Babbu Gill",
+    "url": "https://music.apple.com/ca/album/1849099222",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/bf/14/4bbf147f-92f9-42c8-1488-1e49d8ab2e07/8909194092285.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1850154779",
+    "name": "TERE NAAL REHNA SATGURU - EP",
+    "artist": "Amaan Ali Khan Qawwal",
+    "url": "https://music.apple.com/ca/album/1850154779",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/1d/25/881d256f-83f4-daeb-0319-c6f88a60616d/8909483146965.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "ep"
+  },
+  {
+    "id": "1850830506",
+    "name": "Palki - Single",
+    "artist": "Gullu Nurpuri",
+    "url": "https://music.apple.com/ca/album/1850830506",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/27/92/4527925a-5ae0-b2e1-ddc4-1fd7a7568fae/8905410894909.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-05",
     "albumType": "single"
   },
@@ -126,498 +234,57 @@
     "albumType": "single"
   },
   {
+    "id": "1850679218",
+    "name": "Yin Yang - Single",
+    "artist": "Jagan Randhawa, Jassi Gosal & Manna Grewall",
+    "url": "https://music.apple.com/ca/album/1850679218",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/6e/5b/956e5bf7-ee9f-50c3-d2d3-8ce3867739d3/859721645195_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1848731185",
+    "name": "Ik Geet - Single",
+    "artist": "Shubhu Rana",
+    "url": "https://music.apple.com/ca/album/1848731185",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/d2/dc/1ed2dc5b-9cbb-0896-11fd-916097072ee0/663918618608.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1849243235",
+    "name": "Leg Ghost - Single",
+    "artist": "Nav Shooter",
+    "url": "https://music.apple.com/ca/album/1849243235",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/a7/6f/38a76fc0-f0d6-d76c-102d-e3ae7b09e788/8909483101049.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1850959025",
+    "name": "Makhna Remix - Single",
+    "artist": "Yo Yo Honey Singh, Neha Kakkar, Singhsta, Pinaki, Sean & ALLISTAIR",
+    "url": "https://music.apple.com/ca/album/1850959025",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/f5/51/c9f551f3-0771-9611-ee47-1fab53445b71/8903431062260_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
+    "id": "1850662387",
+    "name": "Viahi Bethi - Single",
+    "artist": "Mani Bhawanigarh",
+    "url": "https://music.apple.com/ca/album/1850662387",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/70/0b/95700b33-1206-225e-12b9-ae6a2338ab60/8905285283525.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-05",
+    "albumType": "single"
+  },
+  {
     "id": "1850155335",
     "name": "PHOOLAN DI VARKHA - Single",
     "artist": "sewadar karam chand",
     "url": "https://music.apple.com/ca/album/1850155335",
     "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/fc/6f/8efc6f98-680c-6ecb-2749-275b9c1bd908/8909483146989.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-05",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511589",
-    "name": "Mere Hissay Da Pyaar - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511589",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/ac/26/e1ac26cc-5e6c-6591-6a28-18d4047390ee/8909483034095.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511389",
-    "name": "Ishq Da Saaya - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511389",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/f2/68/d8f2686d-b392-915b-fdd7-003dffc64241/8909483034064.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512222",
-    "name": "Tere Naal Khushiyan - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512222",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/6e/60/616e60bc-c05e-f18f-fc14-c2495b7f579e/8909483034286.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1846045913",
-    "name": "Baggy Jeans - Single",
-    "artist": "R.I.P",
-    "url": "https://music.apple.com/ca/album/1846045913",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/af/e6/06afe6df-a86a-8001-2eb0-42bd6985c1d2/859720134096_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512047",
-    "name": "Tere Naal Haan Main - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512047",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/a4/53/e6a4533b-7bc8-286c-b614-1d094f08c246/8909483034248.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512886",
-    "name": "Tere Piche Main - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512886",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/55/2d/83552d97-4308-3ccd-541b-c3559af47326/8909483034439.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511441",
-    "name": "Tere Bina Shehar - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511441",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/88/fa/e088fad2-b615-a862-4ec4-c748f0a8d899/8909483034200.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511338",
-    "name": "Dil Nu Tere Naam Kita - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511338",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/3b/d8/073bd850-190c-b7dc-7155-69fc1f6fdea6/8909483034026.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512731",
-    "name": "Tere Naam Da Suroor - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512731",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/86/cf/8f86cf46-ca41-ef79-fe4e-397a1460e802/8909483034385.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511961",
-    "name": "Tere Honthan Da Noor - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511961",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/e0/54/89e05456-200b-0056-fc91-a05aa3c03e2a/8909483034224.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512443",
-    "name": "Tere Naal Sukoon - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512443",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/b7/f2/98b7f264-eb56-7701-91a0-67a5c970550e/8909483034354.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511585",
-    "name": "Mere Hathan Da Likheya Tu - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511585",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/49/59/8c49597a-fc08-b799-cbdf-a954f19dfafe/8909483034088.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512542",
-    "name": "Tere Naal Shaam - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512542",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/a8/8d/d7a88d11-7798-e8d3-77c8-1830b8fb1086/8909483034330.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511472",
-    "name": "Ik Tu Hi - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511472",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/19/48/9419480d-4a27-4943-69ac-9d7888f0c80d/8909483034057.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511791",
-    "name": "Rabb Warga Pyaar - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511791",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/8d/9e/a58d9edd-de91-d9a2-3915-3fd71f0dbdeb/8909483034132.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511945",
-    "name": "Tere Bin Chandni - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511945",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/e4/60/f7e460c0-0ed4-7fe5-9258-9deab574554a/8909483034170.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512581",
-    "name": "Tere Naal Subah - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512581",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/19/e4/b919e4b5-b0f3-d9bf-f6bf-1ddeddb45445/8909483034347.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850155033",
-    "name": "HATHI LEKH KAUM DA LIKHIYA - Single",
-    "artist": "Onkar Jassi",
-    "url": "https://music.apple.com/ca/album/1850155033",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/c1/8a/40c18a17-a311-aa4c-8bf6-f4b5d514e3b7/8909483146958.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847513137",
-    "name": "Tu Hi Meri Dastaan - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847513137",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/73/ef/9173efb5-bf7f-3edb-e528-e3d7fc8dc398/8909483034453.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850152589",
-    "name": "RAVIDASS GURU - Single",
-    "artist": "Darshanjeet",
-    "url": "https://music.apple.com/ca/album/1850152589",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/f9/48/e6f948bd-344a-a0c0-5835-61cb5e350abd/8909483144640.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847513143",
-    "name": "Tu Mera Ehsaas - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847513143",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/2c/4b/662c4bce-1254-0311-22ae-4bdb14a65b70/8909483034477.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1849110338",
-    "name": "Uberr - Single",
-    "artist": "Aman Kalyan",
-    "url": "https://music.apple.com/ca/album/1849110338",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/08/00/de080048-6ca7-33c0-03e3-5ef385252b03/0196250435478.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512043",
-    "name": "Tere Honthan Di Muskaan - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512043",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/24/a3/0724a3ca-7a4e-b501-d82d-383c95805070/8909483034231.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512898",
-    "name": "Tere Nede Aa Ke - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512898",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/59/04/71590473-10c3-1f2a-dbaf-03d6b46e9964/8909483034408.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850152757",
-    "name": "Sache Satguru Nal Preetan Pa Lo Ji - Single",
-    "artist": "SHRIMAN DAVINDER DASS",
-    "url": "https://music.apple.com/ca/album/1850152757",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/f1/17/66f117c8-1782-70f3-173d-41f73d31488b/8909483144657.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850152912",
-    "name": "SANT RAMANAND JI DI YAAD - Single",
-    "artist": "SHRIMAN DAVINDER DASS",
-    "url": "https://music.apple.com/ca/album/1850152912",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/4d/53/214d53d9-bfec-96e5-8f93-c47e4edb9b61/8909483144671.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511879",
-    "name": "Saddi Ankhiyaan Di Barsaat - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511879",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/15/8a/5e158aaa-d99c-85a0-fa41-80754a38eb33/8909483034156.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511292",
-    "name": "Ik Tere Naal - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511292",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/0d/88/860d8840-e044-29c4-7c29-b2052160ef0a/8909483034040.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847513238",
-    "name": "Tu Mera Khayal - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847513238",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/4f/14/0f4f14f2-d04e-9fe1-744a-b3d30fb37eac/8909483034484.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512283",
-    "name": "Tere Naal Rehna - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512283",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/cc/c4/02ccc453-5b56-349c-693f-e54cccaa6b6a/8909483034309.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850154672",
-    "name": "MERE SATGURU - EP",
-    "artist": "SHRIMAN DAVINDER DASS",
-    "url": "https://music.apple.com/ca/album/1850154672",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/a7/02/37a702c6-0aeb-b6df-bece-071d29b899ba/8909483146934.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "ep"
-  },
-  {
-    "id": "1847511672",
-    "name": "Mere Sajna Ve - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511672",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/34/fa/4c34faae-8186-fed3-60ff-469ffc82d0c6/8909483034101.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512973",
-    "name": "Teri Yaadan - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512973",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/9c/f5/c79cf5e7-a851-3827-491f-d7daec54d1a2/8909483034446.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512208",
-    "name": "Tere Naal Ik Pal - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512208",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/0a/e8/420ae87e-c92e-7bc6-e254-393738c62dfc/8909483034255.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850152714",
-    "name": "Rang De Naam Wala Chola - Single",
-    "artist": "maninder banger",
-    "url": "https://music.apple.com/ca/album/1850152714",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/00/22/dd002299-c2e0-e8ba-c7e8-7a3d5bf2a8eb/8909483144633.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512977",
-    "name": "Tu Hi Meri Duniya - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512977",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/74/62/027462df-2b85-4269-2de4-1159fb4c0d4d/8909483034460.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511575",
-    "name": "Raatan De Rang - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511575",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a7/d2/eea7d227-2dde-f507-9257-39a17aa91858/8909483034118.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512944",
-    "name": "Tere Nede Nede - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512944",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/4b/cf/5b4bcf00-57df-cbbe-eef1-b90e611d23dc/8909483034415.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511711",
-    "name": "Tainu Takda Rava - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511711",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/5d/27/e05d277f-587e-8f18-56a7-682263da801d/8909483034163.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850377773",
-    "name": "Dhan Guru Nanak - Single",
-    "artist": "Pukhraz & Benny Sinhmar",
-    "url": "https://music.apple.com/ca/album/1850377773",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/5f/a3/f35fa3ae-9298-7d65-c306-19b0e7c3e20f/859721574372_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512030",
-    "name": "Tere Bina - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512030",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/d9/5a/5dd95afb-f633-4343-9f91-09afd42e1875/8909483034217.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850152848",
-    "name": "SAHAN TO PEHLAN - Single",
-    "artist": "MUKESH JASSAL",
-    "url": "https://music.apple.com/ca/album/1850152848",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/67/0f/5b670ff4-6425-b915-e8cc-6bcaf740d107/8909483144664.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1849112905",
-    "name": "Craze - Single",
-    "artist": "Aman Kalyan",
-    "url": "https://music.apple.com/ca/album/1849112905",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/c2/26/70c22608-f1bd-e69f-73c9-98ac11497540/0195542380304.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512952",
-    "name": "Tere Piche Duniya - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512952",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/1b/55/d81b55c1-967f-425a-ab40-e056c9a0c0e4/8909483034422.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512295",
-    "name": "Tere Naina - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512295",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/f0/da/28f0da41-fd44-e934-a000-a22a52a5130f/8909483034392.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1849848396",
-    "name": "Chan Thalle (feat. Aadii) - Single",
-    "artist": "SKARYBOY",
-    "url": "https://music.apple.com/ca/album/1849848396",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/c0/92/a9c09294-f0a7-967b-39fd-4f166eb21c2a/8909483132531.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511088",
-    "name": "Barsaat Tere Naam Di - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511088",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/ee/23/dbee23a4-57e3-a009-5656-f6a5f9cab62c/8909483034002.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511709",
-    "name": "Saath Reh Mera - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511709",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/7e/97/587e9733-f519-aef5-32b4-37c30cc18e23/8909483034149.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512088",
-    "name": "Tere Naal Khushboo - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512088",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/c2/fc/81c2fcc6-3ecc-4d04-cba8-bd2f642796c4/8909483034279.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1850154945",
-    "name": "NAAM TERA JAPP KE - Single",
-    "artist": "maninder banger",
-    "url": "https://music.apple.com/ca/album/1850154945",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/33/99/52339904-69b0-62cb-da96-2b294e18e639/8909483146941.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847512567",
-    "name": "Tere Naal Sajna - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847512567",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/13/b3/1013b334-1fa3-d9e3-0e01-117f7429b1d1/8909483034323.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511609",
-    "name": "Mera Noor Tu - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511609",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/57/1d/d5571d39-4f24-3586-fefd-786ff2775296/8909483034071.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511728",
-    "name": "Raatan Tere Naam - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511728",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/f6/bb/f9f6bbce-57bd-344b-7bad-8e650ae5313f/8909483034125.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
-    "albumType": "single"
-  },
-  {
-    "id": "1847511783",
-    "name": "Tere Naal Jeena - Single",
-    "artist": "Faisal A Rehman",
-    "url": "https://music.apple.com/ca/album/1847511783",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/15/99/a515991f-cd33-0fa4-df31-95744bf7acb1/8909483034262.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-04",
     "albumType": "single"
   }
 ]
