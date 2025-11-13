@@ -1,19 +1,136 @@
 [
   {
-    "id": "1851403944",
-    "name": "Safar - Single",
-    "artist": "Raaj Karan",
-    "url": "https://music.apple.com/ca/album/1851403944",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/ad/89/16ad894a-6a86-d082-4e0b-fe3d2dc928e6/8909483172339.jpg/3000x3000bb.jpg",
+    "id": "1852170871",
+    "name": "Globe (feat. Jasmeet Kaur Gagre) - Single",
+    "artist": "Gulab Sidhu & Jang Dhillon",
+    "url": "https://music.apple.com/ca/album/1852170871",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/31/85/f031855f-8450-b741-2d03-721e1842eda5/8902633378612.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-04",
+    "albumType": "single"
+  },
+  {
+    "id": "1852165161",
+    "name": "All Black - Single",
+    "artist": "Baani Sandhu & Rxmbo",
+    "url": "https://music.apple.com/ca/album/1852165161",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/86/89/40868942-d798-0106-11c6-59382e401697/8902633378605.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-13",
+    "albumType": "single"
+  },
+  {
+    "id": "1852246328",
+    "name": "Mere Ram Rai - EP",
+    "artist": "Bhai Nirmal Singh Ji Rajpura Wale",
+    "url": "https://music.apple.com/ca/album/1852246328",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/65/39/396539c0-4fcc-b608-1cbe-8d8cbf72d214/859722255140_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-12",
+    "albumType": "ep"
+  },
+  {
+    "id": "1852016905",
+    "name": "Asin ta Bolange - Single",
+    "artist": "Mr. All in All",
+    "url": "https://music.apple.com/ca/album/1852016905",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/25/9f/7a259f7c-d497-c28e-9552-a4e6f698ed62/8909483229842.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-12",
+    "albumType": "single"
+  },
+  {
+    "id": "1852183096",
+    "name": "Punjab Oh Sohna - Single",
+    "artist": "Sardara Gill",
+    "url": "https://music.apple.com/ca/album/1852183096",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/dd/e5/94dde5fe-319e-3441-d78a-72cc5c2e3dbb/8905410897719.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-12",
+    "albumType": "single"
+  },
+  {
+    "id": "1851629587",
+    "name": "Hadd - Single",
+    "artist": "Jassa meshi",
+    "url": "https://music.apple.com/ca/album/1851629587",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/25/c4/4b25c4bd-deba-4b21-b9b7-992ded1f63e5/859721931335_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-12",
+    "albumType": "single"
+  },
+  {
+    "id": "1849710232",
+    "name": "Heart Strings - Single",
+    "artist": "Harsimran Singh",
+    "url": "https://music.apple.com/ca/album/1849710232",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/04/6f/7a046f60-e3ce-73cf-ed3c-342da0909615/859721307789_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-12",
+    "albumType": "single"
+  },
+  {
+    "id": "1852202778",
+    "name": "Obsessed With You - Single",
+    "artist": "Karan Thabal & Yaari Ghuman",
+    "url": "https://music.apple.com/ca/album/1852202778",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/26/28/cc262801-37a5-1e66-98c1-135af663770e/8905285284225.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-12",
+    "albumType": "single"
+  },
+  {
+    "id": "1851573277",
+    "name": "Toronto Vibe - Single",
+    "artist": "Maninder Rai & Psycho Brothers",
+    "url": "https://music.apple.com/ca/album/1851573277",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/24/63/9c24632c-931e-12ac-7721-9b2be7f7f425/8721416757587.png/2554x2554bb.png",
+    "releaseDate": "2025-11-12",
+    "albumType": "single"
+  },
+  {
+    "id": "1852257289",
+    "name": "Vich Nankane De - Single",
+    "artist": "Navneet Kaur Khalsa",
+    "url": "https://music.apple.com/ca/album/1852257289",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/e9/fc/eae9fcfa-3a95-577a-1d0a-770fbfbc8b6f/199806391150.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-11",
     "albumType": "single"
   },
   {
-    "id": "1850807905",
-    "name": "Jatt Mode ON - Single",
-    "artist": "Dilraj Singh",
-    "url": "https://music.apple.com/ca/album/1850807905",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/32/8f/03328faf-6307-6884-7243-4bdaa2a01e5b/8909194096962.jpg/3000x3000bb.jpg",
+    "id": "1851691100",
+    "name": "Mishri Te Khand - Single",
+    "artist": "D. Cali & Meet Sehra",
+    "url": "https://music.apple.com/ca/album/1851691100",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/78/fb/2c78fbeb-1398-14ce-b7bb-091e9578fe4e/859721972697_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1844367501",
+    "name": "Pareetan - Single",
+    "artist": "Sarmad Qadeer & Nish Asher",
+    "url": "https://music.apple.com/ca/album/1844367501",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/4c/d5/5d4cd5d3-8611-01c4-7a2f-908475a07525/5026854091419.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1850460846",
+    "name": "Dil Sajjna 2 - Single",
+    "artist": "Rupesh",
+    "url": "https://music.apple.com/ca/album/1850460846",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/54/69/255469a9-2150-b3bf-f2c8-b824f8983d26/8909483153703.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1849650417",
+    "name": "Not Bad - Single",
+    "artist": "Jaskinder",
+    "url": "https://music.apple.com/ca/album/1849650417",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/2c/ae/602cae48-6db5-6fd9-a96f-652264b77078/Not_Bad-Inlay.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1848305382",
+    "name": "Inexorable - Single",
+    "artist": "Zailly Mann & Wyk Here",
+    "url": "https://music.apple.com/ca/album/1848305382",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/26/4f/fb264fab-e407-c31f-5489-b7e0d527b115/859720870734_cover.jpg/1400x1400bb.jpg",
     "releaseDate": "2025-11-11",
     "albumType": "single"
   },
@@ -36,11 +153,38 @@
     "albumType": "single"
   },
   {
-    "id": "1851547447",
-    "name": "Teri Ho Gayi Aan (feat. RED K MUSIC) - Single",
-    "artist": "sukhihacker & Aman Dhounsi",
-    "url": "https://music.apple.com/ca/album/1851547447",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/a9/c6/c5a9c65b-e1cb-0259-1dfa-2e7534c7f164/8909483193402.jpg/3000x3000bb.jpg",
+    "id": "1851995034",
+    "name": "Arhiyaan - Single",
+    "artist": "Gur Aulakh & Crmxl",
+    "url": "https://music.apple.com/ca/album/1851995034",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/79/2f/c6792fc3-0f2c-9e04-de35-e51faca39b2b/199806222225.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1851403944",
+    "name": "Safar - Single",
+    "artist": "Raaj Karan",
+    "url": "https://music.apple.com/ca/album/1851403944",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/ad/89/16ad894a-6a86-d082-4e0b-fe3d2dc928e6/8909483172339.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1851122519",
+    "name": "Jadu - Single",
+    "artist": "Ram Katharia",
+    "url": "https://music.apple.com/ca/album/1851122519",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/1a/fe/b11afeef-fbda-bd2a-4799-f696c722297a/8905713960431_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-11-11",
+    "albumType": "single"
+  },
+  {
+    "id": "1852199414",
+    "name": "Dukh Sukh Honday Zindagi Naal - Single",
+    "artist": "Talat Abbas",
+    "url": "https://music.apple.com/ca/album/1852199414",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/a7/88/c3a788d0-fc83-52ae-23e8-b678eb9d1901/3952e76d-fe93-4d92-8d6e-0e5b7cd1a95f.jpg/1600x1600bb.jpg",
     "releaseDate": "2025-11-11",
     "albumType": "single"
   },
@@ -51,123 +195,6 @@
     "url": "https://music.apple.com/ca/album/1851547014",
     "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/10/60/e4106048-f6ce-ca08-2169-c2af82e25bd5/8909483193198.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-11-11",
-    "albumType": "single"
-  },
-  {
-    "id": "1850460846",
-    "name": "Dil Sajjna 2 - Single",
-    "artist": "Rupesh",
-    "url": "https://music.apple.com/ca/album/1850460846",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/54/69/255469a9-2150-b3bf-f2c8-b824f8983d26/8909483153703.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-11",
-    "albumType": "single"
-  },
-  {
-    "id": "1848305382",
-    "name": "Inexorable - Single",
-    "artist": "Zailly Mann & Wyk Here",
-    "url": "https://music.apple.com/ca/album/1848305382",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/26/4f/fb264fab-e407-c31f-5489-b7e0d527b115/859720870734_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-11",
-    "albumType": "single"
-  },
-  {
-    "id": "1851691100",
-    "name": "Mishri Te Khand - Single",
-    "artist": "D. Cali & Meet Sehra",
-    "url": "https://music.apple.com/ca/album/1851691100",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/78/fb/2c78fbeb-1398-14ce-b7bb-091e9578fe4e/859721972697_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-11",
-    "albumType": "single"
-  },
-  {
-    "id": "1849077417",
-    "name": "Ainak - Single",
-    "artist": "Harpi Gill, Meavin & Rym Gill",
-    "url": "https://music.apple.com/ca/album/1849077417",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/60/75/9d607597-a871-aa6c-8da7-0b54cbe2d1b1/8905713965559_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1851946917",
-    "name": "Tera Saath - Single",
-    "artist": "खुशप्रीत कौर",
-    "url": "https://music.apple.com/ca/album/1851946917",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/08/8c/17088c74-94df-7ebe-9584-ca007a42a05c/8905285284157.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1844286238",
-    "name": "Fair & Furious - Single",
-    "artist": "Its Umber",
-    "url": "https://music.apple.com/ca/album/1844286238",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/ca/88/bcca8817-a8fd-02f4-3c14-62ddce2d624a/859719450428_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1851178640",
-    "name": "Pholk Fusion - EP",
-    "artist": "बलकार सिद्धू & Music Nasha",
-    "url": "https://music.apple.com/ca/album/1851178640",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/30/09/56300973-4c85-fea1-08bd-c04312fb3f96/199806338414.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "ep"
-  },
-  {
-    "id": "1850481233",
-    "name": "DONT BE SHY - Single",
-    "artist": "Predictor V",
-    "url": "https://music.apple.com/ca/album/1850481233",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/a3/08/aea3089c-cd58-4ddb-b2f3-8a4ce377728c/8909483168431.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1849707890",
-    "name": "Zindagi - Single",
-    "artist": "Sahil Chouhan",
-    "url": "https://music.apple.com/ca/album/1849707890",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/06/10/a00610a6-eea0-7aae-4c9a-03ca2d309c7d/8909483123355.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1850392204",
-    "name": "Dhaun Chon Killa - Single",
-    "artist": "Gaurav Sandhu",
-    "url": "https://music.apple.com/ca/album/1850392204",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/1c/16/471c1633-4027-f74a-6b1f-1927017c6dcd/8905285283372.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1849033766",
-    "name": "Roo Len De - Single",
-    "artist": "K Pill Music",
-    "url": "https://music.apple.com/ca/album/1849033766",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/b5/76/6cb57644-8f13-f50b-072b-c429300f4e9e/859721129978_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1850910374",
-    "name": "Chorni - Single",
-    "artist": "pavn",
-    "url": "https://music.apple.com/ca/album/1850910374",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/99/07/e99907c2-a7d6-8741-7e5d-c9995b5cdd77/8902633374164.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-11-10",
-    "albumType": "single"
-  },
-  {
-    "id": "1851323734",
-    "name": "1984 Genocide - Single",
-    "artist": "GURPREET DHILLON",
-    "url": "https://music.apple.com/ca/album/1851323734",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/07/25/be0725a7-76be-0c4d-fd33-f36491fde5be/859721841535_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-11-10",
     "albumType": "single"
   }
 ]
