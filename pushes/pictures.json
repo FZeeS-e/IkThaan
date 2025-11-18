@@ -6,10 +6,10 @@
     "meansaturation": 0.4237
   },
   {
-    "alt": "Illuminated building reflected in dark water at night",
-    "url": "https://images.unsplash.com/photo-1761600200240-3d613d3ea85f",
-    "colorfulnees": 58.1359,
-    "meansaturation": 0.3569
+    "alt": "Small hut in a vast green rice paddy field.",
+    "url": "https://images.unsplash.com/photo-1762708551128-f94748385ae3",
+    "colorfulnees": 60.3738,
+    "meansaturation": 0.6051
   },
   {
     "alt": "Green forested hills overlook distant cityscape under hazy sky.",
@@ -18,16 +18,22 @@
     "meansaturation": 0.4709
   },
   {
-    "alt": "Mural of a king with a fortress in background",
-    "url": "https://images.unsplash.com/photo-1762006222917-ab457593fbe9",
-    "colorfulnees": 57.7214,
-    "meansaturation": 0.3067
+    "alt": "Bhutan and india flags on a dashboard",
+    "url": "https://images.unsplash.com/photo-1761048163208-5588e188f19e",
+    "colorfulnees": 56.8113,
+    "meansaturation": 0.3901
   },
   {
-    "alt": "Green rice field with a small building and power lines",
-    "url": "https://images.unsplash.com/photo-1762708551184-5d476f3a438d",
-    "colorfulnees": 49.0828,
-    "meansaturation": 0.6579
+    "alt": "Tall historic tower against a cloudy blue sky",
+    "url": "https://images.unsplash.com/photo-1763262196793-2defbf1b6b7c",
+    "colorfulnees": 49.3379,
+    "meansaturation": 0.2907
+  },
+  {
+    "alt": "Close-up of a historical brick minaret against a cloudy sky",
+    "url": "https://images.unsplash.com/photo-1763262196516-f5b1011b5879",
+    "colorfulnees": 48.8543,
+    "meansaturation": 0.2646
   },
   {
     "alt": "Arched bridge spanning a calm river with lush greenery.",
@@ -78,16 +84,10 @@
     "meansaturation": 0.2766
   },
   {
-    "alt": "A road winds through a rural landscape at sunset.",
-    "url": "https://images.unsplash.com/photo-1761486324240-59731684962a",
-    "colorfulnees": 35.7857,
-    "meansaturation": 0.2954
-  },
-  {
-    "alt": "A flag flies against a cloudy sky",
-    "url": "https://images.unsplash.com/photo-1761048170762-be73322d2383",
-    "colorfulnees": 33.6742,
-    "meansaturation": 0.2321
+    "alt": "Orange flag waving on a flagpole against clear sky",
+    "url": "https://images.unsplash.com/photo-1761958150660-0c3691fda95d",
+    "colorfulnees": 29.7487,
+    "meansaturation": 0.2499
   },
   {
     "alt": "Green field in front of apartment buildings under cloudy sky",
@@ -96,10 +96,10 @@
     "meansaturation": 0.322
   },
   {
-    "alt": "Overcast sky above a sprawling town in a valley.",
-    "url": "https://images.unsplash.com/photo-1761761148449-dd329b3e3742",
-    "colorfulnees": 28.1688,
-    "meansaturation": 0.2756
+    "alt": "A serene park with a reflective pool and distant tower.",
+    "url": "https://images.unsplash.com/photo-1763098844659-787e326cadbf",
+    "colorfulnees": 23.5139,
+    "meansaturation": 0.292
   },
   {
     "alt": "Ornate arches and columns of an ancient building.",
@@ -108,15 +108,15 @@
     "meansaturation": 0.14
   },
   {
-    "alt": "Overcast sky above a distant landscape",
-    "url": "https://images.unsplash.com/photo-1761812789688-ebcdb114ce73",
-    "colorfulnees": 16.442,
-    "meansaturation": 0.1683
+    "alt": "Close-up of qutub minar tower against cloudy sky",
+    "url": "https://images.unsplash.com/photo-1763262196549-fafed9b82d01",
+    "colorfulnees": 19.3498,
+    "meansaturation": 0.0513
   },
   {
-    "alt": "A calm river flows through a grassy landscape.",
-    "url": "https://images.unsplash.com/photo-1761484085295-f08efb81caf9",
-    "colorfulnees": 14.483,
-    "meansaturation": 0.1403
+    "alt": "Chariot sculpture at parmarth niketan at night",
+    "url": "https://images.unsplash.com/photo-1762005662451-b6bbf4d23fd5",
+    "colorfulnees": 0.0,
+    "meansaturation": 0.0
   }
 ]
