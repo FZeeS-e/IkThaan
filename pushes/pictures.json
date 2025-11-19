@@ -1,69 +1,75 @@
 [
   {
-    "alt": "Circular tower with crenellations against blue sky",
-    "url": "https://images.unsplash.com/photo-1761889012420-79cd4c309c8e",
-    "colorfulnees": 85.1128,
-    "meansaturation": 0.4237
+    "alt": "An aerial view of a forest with lots of trees",
+    "url": "https://images.unsplash.com/photo-1731113993554-d70b343a1f10",
+    "colorfulnees": 125.9735,
+    "meansaturation": 0.6734
   },
   {
-    "alt": "Small hut in a vast green rice paddy field.",
-    "url": "https://images.unsplash.com/photo-1762708551128-f94748385ae3",
-    "colorfulnees": 60.3738,
-    "meansaturation": 0.6051
+    "alt": "An aerial view of a large field with trees",
+    "url": "https://images.unsplash.com/photo-1731113993553-f3e82bfe5516",
+    "colorfulnees": 90.136,
+    "meansaturation": 0.5002
   },
   {
-    "alt": "Green forested hills overlook distant cityscape under hazy sky.",
-    "url": "https://images.unsplash.com/photo-1762795575294-b2e333fd5ae1",
-    "colorfulnees": 57.9556,
-    "meansaturation": 0.4709
+    "alt": "A forest filled with lots of trees covered in fall colors",
+    "url": "https://images.unsplash.com/photo-1731113993555-3a3b080cf082",
+    "colorfulnees": 79.8254,
+    "meansaturation": 0.5187
   },
   {
-    "alt": "Bhutan and india flags on a dashboard",
-    "url": "https://images.unsplash.com/photo-1761048163208-5588e188f19e",
-    "colorfulnees": 56.8113,
-    "meansaturation": 0.3901
+    "alt": "A large building sitting on top of a body of water",
+    "url": "https://images.unsplash.com/photo-1730620775925-26ac7116e296",
+    "colorfulnees": 75.8442,
+    "meansaturation": 0.559
   },
   {
-    "alt": "Tall historic tower against a cloudy blue sky",
-    "url": "https://images.unsplash.com/photo-1763262196793-2defbf1b6b7c",
-    "colorfulnees": 49.3379,
-    "meansaturation": 0.2907
+    "alt": "An indian religious pot with flowers and leaves.",
+    "url": "https://images.unsplash.com/photo-1754276747848-fed9fe91d806",
+    "colorfulnees": 74.3726,
+    "meansaturation": 0.6021
   },
   {
-    "alt": "Close-up of a historical brick minaret against a cloudy sky",
-    "url": "https://images.unsplash.com/photo-1763262196516-f5b1011b5879",
-    "colorfulnees": 48.8543,
-    "meansaturation": 0.2646
+    "alt": "A body of water with buildings in the background",
+    "url": "https://images.unsplash.com/photo-1730638426417-78cb830aeb32",
+    "colorfulnees": 72.3565,
+    "meansaturation": 0.4266
   },
   {
-    "alt": "Arched bridge spanning a calm river with lush greenery.",
-    "url": "https://images.unsplash.com/photo-1761483282542-f23b232563aa",
-    "colorfulnees": 47.5742,
-    "meansaturation": 0.3642
+    "alt": "An aerial view of a forest with lots of trees",
+    "url": "https://images.unsplash.com/photo-1731113993556-90c12d21c0fc",
+    "colorfulnees": 62.9104,
+    "meansaturation": 0.4525
   },
   {
-    "alt": "Sunset over a park with trees and bushes",
-    "url": "https://images.unsplash.com/photo-1762781535647-b8393b105ef3",
-    "colorfulnees": 45.4767,
-    "meansaturation": 0.5806
+    "alt": "A bush with orange flowers and green leaves",
+    "url": "https://images.unsplash.com/photo-1730620775898-bfa7349be9a8",
+    "colorfulnees": 53.3508,
+    "meansaturation": 0.7739
   },
   {
-    "alt": "Ornate doorway leading into a yellow courtyard",
-    "url": "https://images.unsplash.com/photo-1762624169131-1e8293c6c673",
-    "colorfulnees": 43.1901,
-    "meansaturation": 0.3533
+    "alt": "A large white building with a yellow dome",
+    "url": "https://images.unsplash.com/photo-1730638426373-1630ca57e325",
+    "colorfulnees": 51.521,
+    "meansaturation": 0.2775
   },
   {
-    "alt": "Ancient stone tomb with dome surrounded by greenery",
-    "url": "https://images.unsplash.com/photo-1762874864543-f6f57b410023",
-    "colorfulnees": 42.0181,
-    "meansaturation": 0.3262
+    "alt": "A flooded field with trees and water in the foreground",
+    "url": "https://images.unsplash.com/photo-1739433108012-ebec4d134964",
+    "colorfulnees": 46.5642,
+    "meansaturation": 0.3963
   },
   {
-    "alt": "Long arched bridge over a wide river with vegetation.",
-    "url": "https://images.unsplash.com/photo-1761483282387-c0adff5e802d",
-    "colorfulnees": 40.7626,
-    "meansaturation": 0.3159
+    "alt": "A large building with a clock tower lit up at night",
+    "url": "https://images.unsplash.com/photo-1730620775684-dbf2591d744c",
+    "colorfulnees": 42.8971,
+    "meansaturation": 0.3124
+  },
+  {
+    "alt": "Golden temple complex reflected in water under blue sky.",
+    "url": "https://images.unsplash.com/photo-1757552528851-378540b9ae17",
+    "colorfulnees": 40.5162,
+    "meansaturation": 0.2532
   },
   {
     "alt": "The golden temple complex reflected in the water",
@@ -72,51 +78,21 @@
     "meansaturation": 0.2254
   },
   {
-    "alt": "Arch bridge over a wide river with trees and vegetation.",
-    "url": "https://images.unsplash.com/photo-1761484085572-8ea0d71f38e3",
-    "colorfulnees": 37.2615,
-    "meansaturation": 0.2856
-  },
-  {
     "alt": "Golden temple complex at dusk with soft sky.",
     "url": "https://images.unsplash.com/photo-1761924470298-b81a1c1440c5",
     "colorfulnees": 36.2321,
     "meansaturation": 0.2766
   },
   {
-    "alt": "Orange flag waving on a flagpole against clear sky",
-    "url": "https://images.unsplash.com/photo-1761958150660-0c3691fda95d",
-    "colorfulnees": 29.7487,
-    "meansaturation": 0.2499
+    "alt": "A red and white bus driving down a street next to tall buildings",
+    "url": "https://images.unsplash.com/photo-1724205587513-ba84d7bf442c",
+    "colorfulnees": 34.9489,
+    "meansaturation": 0.2536
   },
   {
-    "alt": "Green field in front of apartment buildings under cloudy sky",
-    "url": "https://images.unsplash.com/photo-1762944080471-3c0a7e833d8f",
-    "colorfulnees": 28.5041,
-    "meansaturation": 0.322
-  },
-  {
-    "alt": "A serene park with a reflective pool and distant tower.",
-    "url": "https://images.unsplash.com/photo-1763098844659-787e326cadbf",
-    "colorfulnees": 23.5139,
-    "meansaturation": 0.292
-  },
-  {
-    "alt": "Ornate arches and columns of an ancient building.",
-    "url": "https://images.unsplash.com/photo-1762780700401-8e47cd53bafb",
-    "colorfulnees": 20.4222,
-    "meansaturation": 0.14
-  },
-  {
-    "alt": "Close-up of qutub minar tower against cloudy sky",
-    "url": "https://images.unsplash.com/photo-1763262196549-fafed9b82d01",
-    "colorfulnees": 19.3498,
-    "meansaturation": 0.0513
-  },
-  {
-    "alt": "Chariot sculpture at parmarth niketan at night",
-    "url": "https://images.unsplash.com/photo-1762005662451-b6bbf4d23fd5",
-    "colorfulnees": 0.0,
-    "meansaturation": 0.0
+    "alt": "A large body of water with a building in the background",
+    "url": "https://images.unsplash.com/photo-1730638426377-05e8e0f0ede7",
+    "colorfulnees": 32.0183,
+    "meansaturation": 0.1547
   }
 ]
