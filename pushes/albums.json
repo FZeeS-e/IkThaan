@@ -18,11 +18,146 @@
     "albumType": "single"
   },
   {
+    "id": "1863106340",
+    "name": "Khalas - Single",
+    "artist": "Sukh Sandhu",
+    "url": "https://music.apple.com/ca/album/1863106340",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/25/34/67253440-ec20-e18b-281c-8ae7ca371a25/5063858922158_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1863068638",
+    "name": "Tappe Mahiye - Single",
+    "artist": "ਮਾਨਾ ਵਿਰਕ",
+    "url": "https://music.apple.com/ca/album/1863068638",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/3d/9f/1e3d9f99-1986-0448-a04a-f947d869851c/5063858700114_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1864369644",
+    "name": "No Recap - Single",
+    "artist": "G-Flow",
+    "url": "https://music.apple.com/ca/album/1864369644",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/fb/e0/0bfbe074-3451-5d59-bdff-fd63b18da759/859727082109_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1862747587",
+    "name": "Keharsthan - Single",
+    "artist": "Mehrem",
+    "url": "https://music.apple.com/ca/album/1862747587",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/d8/b0/b3d8b08c-33af-c731-f01a-7170914004ec/8447536826698.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1863080097",
+    "name": "Ghodi - Single",
+    "artist": "Sukhreet Kaur",
+    "url": "https://music.apple.com/ca/album/1863080097",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/72/9c/d7729ce1-d7c7-b1c2-513e-0505b5aeea0f/5063858918489_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1864474272",
+    "name": "Mittar Pyare Nu (feat. RED K MUSIC) - Single",
+    "artist": "sukhihacker",
+    "url": "https://music.apple.com/ca/album/1864474272",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/b7/1e/25b71ec2-f07b-b255-c66e-329c41bc89ae/8909483623015.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1864349034",
+    "name": "Block 08 - Single",
+    "artist": "Mrinal Berry",
+    "url": "https://music.apple.com/ca/album/1864349034",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/3d/41/463d4173-330a-7acb-0a02-7e355fb736b5/5063904007457_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1863258243",
+    "name": "Nirbhau Nirvair - Single",
+    "artist": "Sukh Sandhu",
+    "url": "https://music.apple.com/ca/album/1863258243",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/cb/74/c7cb74f6-d581-a7a0-f35e-02e00ad28eca/5063858934205_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1863699970",
+    "name": "Mera Baajaan Wala Darvesh - Single",
+    "artist": "Simar Khaira",
+    "url": "https://music.apple.com/ca/album/1863699970",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/63/7e/aa637ed8-f2cd-d714-4159-f34d619f63e1/8721465194890.png/3000x3000bb.png",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1863072914",
+    "name": "Wasn't Easy - Single",
+    "artist": "Sahib",
+    "url": "https://music.apple.com/ca/album/1863072914",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/65/0b/e6650b0e-4d1a-2f84-a31e-6b1c4486c009/5063858591835_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1864364140",
+    "name": "TIMELINE - Single",
+    "artist": "Samrat & अर्पित बाला",
+    "url": "https://music.apple.com/ca/album/1864364140",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/b4/01/65b40162-250b-e13a-973d-2864caac2f54/8909483532577.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1864474243",
+    "name": "DHAN JIGRA KALGIYAAN WALE DA (feat. RED K MUSIC) - Single",
+    "artist": "sukhihacker",
+    "url": "https://music.apple.com/ca/album/1864474243",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/31/c1/7b31c1b5-6e06-d182-d73f-57f52d4856da/8909483623022.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-29",
+    "albumType": "single"
+  },
+  {
+    "id": "1864236762",
+    "name": "Party Vibes - Single",
+    "artist": "Satpal Singh Dugri",
+    "url": "https://music.apple.com/ca/album/1864236762",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/e1/11/85e111b3-692b-feaa-f90e-db9b3908505e/859727011864_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-12-28",
+    "albumType": "single"
+  },
+  {
+    "id": "1858131722",
+    "name": "Velly Kehnde Aa - Single",
+    "artist": "Ajay Chouhan, Zaayn & I sajan",
+    "url": "https://music.apple.com/ca/album/1858131722",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/ac/0e/e2ac0e0f-c03f-709d-9176-ecd186b9daff/8909483400746.jpg/3000x3000bb.jpg",
+    "releaseDate": "2025-12-28",
+    "albumType": "single"
+  },
+  {
     "id": "1864481052",
     "name": "Gabhru - Single",
     "artist": "Gary Hothi",
     "url": "https://music.apple.com/ca/album/1864481052",
     "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/df/8c/dbdf8caf-fd26-35ee-48e8-0039e6041f7d/859727110659_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-12-28",
+    "albumType": "single"
+  },
+  {
+    "id": "1863055603",
+    "name": "Vaar Baba Ajit Singh Ji (feat. Dhadi Kulwinder Kaur Raniwallah) - Single",
+    "artist": "Miscible",
+    "url": "https://music.apple.com/ca/album/1863055603",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/4b/e7/d24be701-2e98-dff8-31ed-bf0c17b0ccec/5063858909586_cover.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-12-28",
     "albumType": "single"
   },
@@ -45,38 +180,20 @@
     "albumType": "single"
   },
   {
-    "id": "1863055603",
-    "name": "Vaar Baba Ajit Singh Ji (feat. Dhadi Kulwinder Kaur Raniwallah) - Single",
-    "artist": "Miscible",
-    "url": "https://music.apple.com/ca/album/1863055603",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/4b/e7/d24be701-2e98-dff8-31ed-bf0c17b0ccec/5063858909586_cover.jpg/3000x3000bb.jpg",
+    "id": "1860531115",
+    "name": "Duniya Jaal - Single",
+    "artist": "Sabat Batin & Rackstar",
+    "url": "https://music.apple.com/ca/album/1860531115",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/64/80/0e648099-6ccb-967a-6c16-9095cfa2ee6b/5026854345901.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-12-28",
     "albumType": "single"
   },
   {
-    "id": "1863059118",
-    "name": "The Megastar - Single",
-    "artist": "Assur",
-    "url": "https://music.apple.com/ca/album/1863059118",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/4f/5d/594f5d40-2a7e-4004-5ab8-1f89df59fab4/5063858901757_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-28",
-    "albumType": "single"
-  },
-  {
-    "id": "1858131722",
-    "name": "Velly Kehnde Aa - Single",
-    "artist": "Ajay Chouhan, Zaayn & I sajan",
-    "url": "https://music.apple.com/ca/album/1858131722",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/ac/0e/e2ac0e0f-c03f-709d-9176-ecd186b9daff/8909483400746.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-28",
-    "albumType": "single"
-  },
-  {
-    "id": "1864111915",
-    "name": "Nabaz - Single",
-    "artist": "Ankush Gill",
-    "url": "https://music.apple.com/ca/album/1864111915",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/c8/38/a3c83844-601a-c967-1684-ee99da9a4021/859726919260_cover.jpg/1400x1400bb.jpg",
+    "id": "1864556821",
+    "name": "Maiya Ji Sanu No Lension - Single",
+    "artist": "Raju Saleem & Sonu Bhagat",
+    "url": "https://music.apple.com/ca/album/1864556821",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/f3/07/14f307e2-23be-00e4-99a4-9b708267d642/5063904021569_cover.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-12-28",
     "albumType": "single"
   },
@@ -90,20 +207,38 @@
     "albumType": "single"
   },
   {
-    "id": "1863502451",
-    "name": "Saah Tere - Single",
-    "artist": "Dr Orics",
-    "url": "https://music.apple.com/ca/album/1863502451",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/3f/e5/523fe5ea-e240-8119-c78d-9f179060d6cb/8721465187007.png/4033x4033bb.png",
+    "id": "1864659333",
+    "name": "No Contact - Single",
+    "artist": "R-Sonic",
+    "url": "https://music.apple.com/ca/album/1864659333",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/74/29/cf742980-ca02-3e39-6946-86c71350874b/859727193126_cover.jpg/1400x1400bb.jpg",
     "releaseDate": "2025-12-28",
     "albumType": "single"
   },
   {
-    "id": "1864236762",
-    "name": "Party Vibes - Single",
-    "artist": "Satpal Singh Dugri",
-    "url": "https://music.apple.com/ca/album/1864236762",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/e1/11/85e111b3-692b-feaa-f90e-db9b3908505e/859727011864_cover.jpg/1400x1400bb.jpg",
+    "id": "1864111915",
+    "name": "Nabaz - Single",
+    "artist": "Ankush Gill",
+    "url": "https://music.apple.com/ca/album/1864111915",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/c8/38/a3c83844-601a-c967-1684-ee99da9a4021/859726919260_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-12-28",
+    "albumType": "single"
+  },
+  {
+    "id": "1864526808",
+    "name": "Glassiee - Single",
+    "artist": "Savvy Dadwal",
+    "url": "https://music.apple.com/ca/album/1864526808",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/58/75/cc58753c-a77d-18f0-7345-3c0c0823db55/859727154875_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2025-12-28",
+    "albumType": "single"
+  },
+  {
+    "id": "1863059118",
+    "name": "The Megastar - Single",
+    "artist": "Assur",
+    "url": "https://music.apple.com/ca/album/1863059118",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/4f/5d/594f5d40-2a7e-4004-5ab8-1f89df59fab4/5063858901757_cover.jpg/3000x3000bb.jpg",
     "releaseDate": "2025-12-28",
     "albumType": "single"
   },
@@ -117,147 +252,12 @@
     "albumType": "single"
   },
   {
-    "id": "1862309053",
-    "name": "Rehande - Single",
-    "artist": "Gulesh",
-    "url": "https://music.apple.com/ca/album/1862309053",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/90/32/45903202-7edd-9f7d-e7a4-ddae2dce8bba/859726090334_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1861952982",
-    "name": "Zafarnama Boleya - Single",
-    "artist": "Tajjy Dosanjhan ala & Sanghera",
-    "url": "https://music.apple.com/ca/album/1861952982",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/c5/05/6fc5050c-b09e-2849-63a1-362842c33efa/859725954149_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1862314588",
-    "name": "Huyi Mai Deewani - Single",
-    "artist": "ANANYA MISHRA",
-    "url": "https://music.apple.com/ca/album/1862314588",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/f0/e4/e3f0e45a-2b99-acd7-1a05-77595aef6a35/859726091355_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1850716681",
-    "name": "Dream Girl - Single",
-    "artist": "GSEHGAL",
-    "url": "https://music.apple.com/ca/album/1850716681",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/97/7e/55977eb1-b880-45a3-da1f-26804f369f02/8721416707797.png/3000x3000bb.png",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863065140",
-    "name": "For You - Single",
-    "artist": "Anshul Kaushik",
-    "url": "https://music.apple.com/ca/album/1863065140",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/18/0f/3f180f9b-1e70-24d0-f45f-342e6f097f04/8909483545423.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1862221696",
-    "name": "Asar - Single",
-    "artist": "Saaz Janala",
-    "url": "https://music.apple.com/ca/album/1862221696",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/55/48/6e5548a3-78f6-147d-b0a4-9d71bf701479/859726059362_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863688111",
-    "name": "Azadi - Single",
-    "artist": "Ramninder Chauhan",
-    "url": "https://music.apple.com/ca/album/1863688111",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/aa/61/bdaa61b1-e30d-8895-25db-99bbb1661d69/8909483616420.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863497394",
-    "name": "Success - Single",
-    "artist": "DEEPSUKH RAJPUT",
-    "url": "https://music.apple.com/ca/album/1863497394",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/3d/89/eb3d8959-3a6f-992e-6a3c-69ca82df78c2/8909483585016.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1861576645",
-    "name": "Gurgaon City - Single",
-    "artist": "Babbu Gill",
-    "url": "https://music.apple.com/ca/album/1861576645",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/00/1d/2b001d57-a425-d42a-09bf-075f8e72e5d7/8909194115830.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863031913",
-    "name": "Above All - Single",
-    "artist": "Aham Rohit",
-    "url": "https://music.apple.com/ca/album/1863031913",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/4b/94/124b9453-0106-72b7-2e06-f0cdda9fcfee/5063858886658_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863958768",
-    "name": "TESTAMENT - EP",
-    "artist": "Aman Fugana",
-    "url": "https://music.apple.com/ca/album/1863958768",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/ae/71/34ae7142-aff1-153b-1c3c-4b6cac834b9a/8909483615683.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "ep"
-  },
-  {
-    "id": "1863256556",
-    "name": "Tera Laung - Single",
-    "artist": "Anny Adampuria & KARBON",
-    "url": "https://music.apple.com/ca/album/1863256556",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/71/43/23714318-c710-6f09-b5e3-f0e964f17a49/859726486915_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863497549",
-    "name": "Siyappa - Single",
-    "artist": "Sid K",
-    "url": "https://music.apple.com/ca/album/1863497549",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/6c/14/906c1451-a719-6d8c-5d3f-1fddde947684/8721465182149.png/3000x3000bb.png",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1863812511",
-    "name": "Still Standing - Single",
-    "artist": "G-Flow",
-    "url": "https://music.apple.com/ca/album/1863812511",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/65/24/9c6524ae-ecfd-cc28-64bc-1ddcaf0a28c7/859726785230_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1861434846",
-    "name": "Reality Check - Single",
-    "artist": "Gur Thiara",
-    "url": "https://music.apple.com/ca/album/1861434846",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/39/04/ed3904c8-66a7-dd43-b466-0466417846bf/859725754855_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2025-12-27",
-    "albumType": "single"
-  },
-  {
-    "id": "1864369231",
-    "name": "SHAAM DA SACH - Single",
-    "artist": "Anuj bali",
-    "url": "https://music.apple.com/ca/album/1864369231",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/3a/78/683a78b2-e4ae-8940-370a-0582195fe8d6/8909483614174.jpg/3000x3000bb.jpg",
-    "releaseDate": "2025-12-27",
+    "id": "1863502451",
+    "name": "Saah Tere - Single",
+    "artist": "Dr Orics",
+    "url": "https://music.apple.com/ca/album/1863502451",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/3f/e5/523fe5ea-e240-8119-c78d-9f179060d6cb/8721465187007.png/4033x4033bb.png",
+    "releaseDate": "2025-12-28",
     "albumType": "single"
   }
 ]
