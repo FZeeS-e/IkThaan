@@ -1,164 +1,83 @@
 [
   {
-    "id": "1877830415",
-    "name": "Jawani - Single",
-    "artist": "Sabba & Meavin",
-    "url": "https://music.apple.com/ca/album/1877830415",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/b5/b8/5fb5b88d-9a8b-a1b0-ceb0-9873460c7337/8902633501768.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-03-10",
+    "id": "1878476759",
+    "name": "Chakkeya Geya (feat. mixboy) - Single",
+    "artist": "Bobby Mehra",
+    "url": "https://music.apple.com/ca/album/1878476759",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/fe/c2/a0fec254-4981-a479-c255-f235ed4d590c/8909561098650.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1866553266",
-    "name": "Punjabi Jhinzaki (Zakir Hussain Tribute) [feat. Matthew Montfort, Aditya Kalyanpur, George Brooks & Kai Eckhardt] - Single",
-    "artist": "Ancient Future",
-    "url": "https://music.apple.com/ca/album/1866553266",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/70/59/9f7059cc-bb6b-f049-1b27-9696d13f9287/825336203037.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-03-09",
+    "id": "1878726251",
+    "name": "Makaveli - Single",
+    "artist": "Lkihere & SNAPDEEP",
+    "url": "https://music.apple.com/ca/album/1878726251",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/3e/c7/423ec70b-4d96-4edd-1b04-2eb4f48f5eb5/5063916157171_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1876333711",
-    "name": "Teriaan Akhaan - Single",
-    "artist": "Gori13aala",
-    "url": "https://music.apple.com/ca/album/1876333711",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/00/2c/30002c67-cebe-4b43-3f68-5b79b19fc918/8909561002411.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
+    "id": "1876768766",
+    "name": "Teri Kamoshi - Single",
+    "artist": "Shershaah",
+    "url": "https://music.apple.com/ca/album/1876768766",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/0e/b8/780eb8b4-d98c-db15-964e-b907500ce698/823191979838_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1875572899",
-    "name": "80s Ranjha - Single",
-    "artist": "Veer-G & TANUSHKA RAJPOOT",
-    "url": "https://music.apple.com/ca/album/1875572899",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/75/86/087586fb-1bc5-48d5-d0b2-1a8927639d82/8909483951873.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
+    "id": "1878155229",
+    "name": "JEEN DI WAJAH - Single",
+    "artist": "Nipun",
+    "url": "https://music.apple.com/ca/album/1878155229",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/ef/cc/18efccb3-b070-d235-2bbd-6fb099cfca0d/8909561101619.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1878281236",
-    "name": "Bring Em Out Mixtape",
-    "artist": "مختلف الفنانين",
-    "url": "https://music.apple.com/ca/album/1878281236",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e1/a3/4de1a380-5c89-f916-c0a7-04d211dd5554/49780.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "standard"
-  },
-  {
-    "id": "1878465786",
-    "name": "700 - Single",
-    "artist": "Awaar",
-    "url": "https://music.apple.com/ca/album/1878465786",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/3b/b3/6c3bb363-7f7c-0782-53d1-6a4bd38b388a/8909483992081.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1877082205",
-    "name": "Aukhey Din - Single",
-    "artist": "Anshul Khatri",
-    "url": "https://music.apple.com/ca/album/1877082205",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/98/dd/a398dd72-fff0-d9d2-20c3-ff6d07f925df/8909561060602.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1879504840",
-    "name": "Aadat - Single",
-    "artist": "Gaurav Batra & Sunny Sam",
-    "url": "https://music.apple.com/ca/album/1879504840",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/d6/5a/7fd65a1b-1070-7ca4-b2c7-1537ea0fe816/8909561085063.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1878157859",
-    "name": "Barsatan - Single",
-    "artist": "Sandeep Kumar",
-    "url": "https://music.apple.com/ca/album/1878157859",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/e7/15/86e71521-10ff-2d77-68fe-989a45c47014/8909561089276.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1879496614",
+    "id": "1876492280",
     "name": "Sukoon - Single",
-    "artist": "Anayiah Grewal, Hyder Dar & Fakhar Abbas",
-    "url": "https://music.apple.com/ca/album/1879496614",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/a6/03/32a6035e-f2d0-7df6-c990-503df8b7095f/199874313986_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2026-02-26",
+    "artist": "Amber & Yaari Ghuman",
+    "url": "https://music.apple.com/ca/album/1876492280",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/b6/ca/c1b6ca61-0c5f-22da-a7de-a10084530d95/8721465772708.png/3000x3000bb.png",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1878459518",
-    "name": "Long Distance - Single",
-    "artist": "MUSICAL G",
-    "url": "https://music.apple.com/ca/album/1878459518",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/9b/2c/ce9b2c0e-c9f6-ef15-6ead-845919e78e35/5063916127907_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
+    "id": "1866818853",
+    "name": "SONEYA - Single",
+    "artist": "Samrat",
+    "url": "https://music.apple.com/ca/album/1866818853",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/22/52/41225225-ed31-e467-0f33-561b8d4536e9/8909483694152.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1878634838",
-    "name": "Khulli Chutti - Single",
-    "artist": "डीप मान",
-    "url": "https://music.apple.com/ca/album/1878634838",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/c2/1f/13c21f71-8706-e383-5ce9-ebbb96faeb2d/8905285301977.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
+    "id": "1878342916",
+    "name": "Reality (feat. Mani Surtia) - Single",
+    "artist": "Shinda, Mani Bhawanigarh & Captain Gill",
+    "url": "https://music.apple.com/ca/album/1878342916",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/c1/c8/49c1c827-2136-e498-7dc5-cd6c03b388d8/5063916111289_cover.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1879171621",
-    "name": "Urban Desi - Single",
-    "artist": "Ricky Aujla",
-    "url": "https://music.apple.com/ca/album/1879171621",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/67/2b/d0672b11-71d8-f5f6-e13b-6334771765bd/859731969663_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2026-02-26",
+    "id": "1879362756",
+    "name": "Rhymer - Single",
+    "artist": "Davinder Rauke & Gavy Sidhu",
+    "url": "https://music.apple.com/ca/album/1879362756",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/da/70/d8da7040-84b9-f870-6e12-138f240db9ab/859732052968_cover.jpg/1400x1400bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
-    "id": "1878460989",
-    "name": "Case to Case - Single",
-    "artist": "Shah Patti",
-    "url": "https://music.apple.com/ca/album/1878460989",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/33/0a/9b330a1d-cdd7-5e67-abc1-6a493d8f5ca6/5063916130846_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1878072831",
-    "name": "DIL JAAN - Single",
-    "artist": "Anuj Kashyap",
-    "url": "https://music.apple.com/ca/album/1878072831",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/c6/dc/03c6dcc9-8e62-f2c2-3547-e1b82f556261/8909561087357.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1878171389",
-    "name": "Lagde Ne Mele - Single",
-    "artist": "Tarun Tashu & Tilak Raj Thakur",
-    "url": "https://music.apple.com/ca/album/1878171389",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/00/a3/7000a37e-13bf-6894-fdea-94b10f771ddc/8909561089269.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1878287079",
-    "name": "Akhan - Single",
-    "artist": "Raman Khan & PAWEL MAHI",
-    "url": "https://music.apple.com/ca/album/1878287079",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/f5/17/dbf517d8-89d5-9aa9-9cae-a108d00fb00d/8909194151883.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1879531629",
-    "name": "Bann - Single",
-    "artist": "Binny Jarhdwala",
-    "url": "https://music.apple.com/ca/album/1879531629",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/8c/87/5b8c87ce-c7f6-8e8b-deab-bf23657a211d/8690101298844.png/3000x3000bb.png",
-    "releaseDate": "2026-02-26",
+    "id": "1878960984",
+    "name": "Boli Pake - Single",
+    "artist": "Gurwinder Sonu",
+    "url": "https://music.apple.com/ca/album/1878960984",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/b1/e0/d5b1e043-f352-d8de-0084-83c8da02b64c/8909194153528.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-27",
     "albumType": "single"
   },
   {
@@ -171,83 +90,11 @@
     "albumType": "single"
   },
   {
-    "id": "1878785024",
-    "name": "HOOD HOODEN - Single",
-    "artist": "rshav",
-    "url": "https://music.apple.com/ca/album/1878785024",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/37/32/44373254-12cd-8b72-c5ad-e9356b72a052/8909561117900.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1876567097",
-    "name": "Shikhar",
-    "artist": "Jaggi Dhaliwal & Akash Walia",
-    "url": "https://music.apple.com/ca/album/1876567097",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/0b/ca/dd0bca78-64f2-1cc1-be05-a0e0f9e81e52/8905285300659.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "standard"
-  },
-  {
-    "id": "1876284112",
-    "name": "bleed for me - Single",
-    "artist": "Student!",
-    "url": "https://music.apple.com/ca/album/1876284112",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/2d/0c/5f2d0c0f-6843-751b-54ea-c7cb2bed5be4/8909561009526.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1879841305",
-    "name": "Dil Diyan Gallan - Single",
-    "artist": "Lakhi Siau",
-    "url": "https://music.apple.com/ca/album/1879841305",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/f9/29/47f92910-08fc-16ec-7878-166ceee09d0d/5063916219763_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1878403464",
-    "name": "Phone - Single",
-    "artist": "Aman Buhavi & Jassa Boss",
-    "url": "https://music.apple.com/ca/album/1878403464",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/8a/84/e28a842d-ab28-cae2-71e6-edd01c378cf6/5063916126276_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1876582604",
-    "name": "Misconception - Single",
-    "artist": "Aniket Langer",
-    "url": "https://music.apple.com/ca/album/1876582604",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/78/e4/0878e49f-51c6-d8d2-7b74-4479e34f46b3/8909561028862.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1879796031",
-    "name": "Street Mafiaa - EP",
-    "artist": "King Singh",
-    "url": "https://music.apple.com/ca/album/1879796031",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/3a/73/293a7381-bea5-c67f-1f3d-ffc0017f4fc4/5063916234957_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "ep"
-  },
-  {
-    "id": "1878778167",
-    "name": "Jai Bajrang  Di Goonj - Single",
-    "artist": "Balwinder Bhalla",
-    "url": "https://music.apple.com/ca/album/1878778167",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9d/e7/fa9de79c-a500-8aff-5ad2-3295af79d848/8909561113544.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-26",
-    "albumType": "single"
-  },
-  {
-    "id": "1879784318",
-    "name": "Daastaan - Single",
-    "artist": "Karan Dua",
-    "url": "https://music.apple.com/ca/album/1879784318",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/84/7e/8b847ecb-7f44-75ee-2b26-1596232309af/5063916231758_cover.jpg/3000x3000bb.jpg",
+    "id": "1878465786",
+    "name": "700 - Single",
+    "artist": "Awaar",
+    "url": "https://music.apple.com/ca/album/1878465786",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/3b/b3/6c3bb363-7f7c-0782-53d1-6a4bd38b388a/8909483992081.jpg/3000x3000bb.jpg",
     "releaseDate": "2026-02-26",
     "albumType": "single"
   },
@@ -261,192 +108,48 @@
     "albumType": "single"
   },
   {
-    "id": "1878264363",
-    "name": "Mein Chalyan Shehar Madiney Nu - Single",
-    "artist": "Akram Rahi",
-    "url": "https://music.apple.com/ca/album/1878264363",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/6c/89/026c89b0-417b-403e-5c0e-4651ee2ef46d/5063916091833_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
+    "id": "1876333711",
+    "name": "Teriaan Akhaan - Single",
+    "artist": "Gori13aala",
+    "url": "https://music.apple.com/ca/album/1876333711",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/00/2c/30002c67-cebe-4b43-3f68-5b79b19fc918/8909561002411.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-26",
     "albumType": "single"
   },
   {
-    "id": "1872733553",
-    "name": "Other Cast - Single",
-    "artist": "Preet Insan",
-    "url": "https://music.apple.com/ca/album/1872733553",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/93/e8/7593e811-1b0a-4d53-d4a3-981b75ad51b1/859730101293_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2026-02-25",
+    "id": "1878281236",
+    "name": "Bring Em Out Mixtape",
+    "artist": "مختلف الفنانين",
+    "url": "https://music.apple.com/ca/album/1878281236",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/e1/a3/4de1a380-5c89-f916-c0a7-04d211dd5554/49780.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-26",
+    "albumType": "standard"
+  },
+  {
+    "id": "1880259277",
+    "name": "Aaya Janam Dihara - Single",
+    "artist": "Gurpreet Sony",
+    "url": "https://music.apple.com/ca/album/1880259277",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/3b/c1/773bc11d-4319-d780-a1b3-af108deab34b/8909561117252.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-26",
     "albumType": "single"
   },
   {
-    "id": "1878168543",
-    "name": "PAST FUTURE - Single",
-    "artist": "Akhil Sharma",
-    "url": "https://music.apple.com/ca/album/1878168543",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/23/0e/d8230ea6-cc4a-b145-140d-a0553658976a/8909561075491.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
+    "id": "1879504840",
+    "name": "Aadat - Single",
+    "artist": "Gaurav Batra & Sunny Sam",
+    "url": "https://music.apple.com/ca/album/1879504840",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/d6/5a/7fd65a1b-1070-7ca4-b2c7-1537ea0fe816/8909561085063.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-26",
     "albumType": "single"
   },
   {
-    "id": "1879987715",
-    "name": "Quwait Floww - Single",
-    "artist": "Karan Chandla",
-    "url": "https://music.apple.com/ca/album/1879987715",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/1f/d2/fd1fd296-9fc8-2cbf-642b-394c4363d54d/8909561162634.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1878168359",
-    "name": "Pahadi 3 - Single",
-    "artist": "Sagar Anand",
-    "url": "https://music.apple.com/ca/album/1878168359",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/60/f7/0460f72c-6c4a-7156-efe2-52fe1bd773d5/8909561072810.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1877832425",
-    "name": "Dead Body - Single",
-    "artist": "Baaghi & Little Boi",
-    "url": "https://music.apple.com/ca/album/1877832425",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/e1/94/c5e194e5-bf30-ff96-5162-b48dbc339252/8905285301441.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1877815846",
-    "name": "Desire - Single",
-    "artist": "Aarav Thakur",
-    "url": "https://music.apple.com/ca/album/1877815846",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/82/0d/ba820d6d-27a9-1c68-b785-a8eacfaf1c3c/8909561072803.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1874581112",
-    "name": "Khair - Single",
-    "artist": "Deepak Dhillon, Khush & Aman Sumal",
-    "url": "https://music.apple.com/ca/album/1874581112",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/68/99/bb689923-c68d-829a-a04a-4a3008d7440b/8905285299236.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1878383250",
-    "name": "Khamoshiyaan - Single",
-    "artist": "Waziria",
-    "url": "https://music.apple.com/ca/album/1878383250",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/d1/8b/13d18bb8-4709-5ea2-a5c8-27bc68cbdc4b/5063916113139_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1878499757",
-    "name": "All Night - Single",
-    "artist": "The Sny",
-    "url": "https://music.apple.com/ca/album/1878499757",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/da/e9/41dae9dd-30ae-a226-bb73-973c12b3de5c/8909561116262.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1879023661",
-    "name": "Migration (feat. Sandeep Kurar) - Single",
-    "artist": "Jarnail Rattoke",
-    "url": "https://music.apple.com/ca/album/1879023661",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/cd/65/2bcd65fa-e7bc-9c46-1d91-e6fb548b4095/5063916169297_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1878376683",
-    "name": "Don't Know (feat. Banglez Musix) - Single",
-    "artist": "Preet Brongia",
-    "url": "https://music.apple.com/ca/album/1878376683",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/d3/d6/dcd3d607-19d1-696b-eafe-01b1c75bb32e/5063916115447_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1879471917",
-    "name": "Ikko Dil - Single",
-    "artist": "Jodhaa & Love Sagar Music",
-    "url": "https://music.apple.com/ca/album/1879471917",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/c2/5e/2fc25e37-cb91-2be2-e6fa-660429e4beab/5063916193285_cover.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1878155277",
-    "name": "Unseen - Single",
-    "artist": "Akhil Sharma",
-    "url": "https://music.apple.com/ca/album/1878155277",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/65/3d/f9653d09-2754-00d4-0aec-3a8edc0f549a/8909561087364.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1879886358",
-    "name": "Na Lagje Nazar - Single",
-    "artist": "KK Manik",
-    "url": "https://music.apple.com/ca/album/1879886358",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ac/5a/45ac5a9f-add1-483d-2182-172e9a9ab311/8905410935299.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1879993065",
-    "name": "My Turn - Single",
-    "artist": "Jasyal",
-    "url": "https://music.apple.com/ca/album/1879993065",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/80/5b/48805b0a-5604-1653-34d5-fd0dde715f8b/8909561116378.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1879425574",
-    "name": "PANGA - Single",
-    "artist": "Manveer Dhillon, Gurlez Akhtar & Bull Music",
-    "url": "https://music.apple.com/ca/album/1879425574",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3a/25/8a3a259c-b1e4-de61-99f1-6de993d48ad6/8905285302493.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1879988412",
-    "name": "Ready to Yes - Single",
-    "artist": "Amrit Chopra",
-    "url": "https://music.apple.com/ca/album/1879988412",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/e9/dd/a0e9ddee-ba1c-1350-624d-fa1560cca995/859732273936_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1876286712",
-    "name": "VOICENOTES - Single",
-    "artist": "Aarav Dhillon & Ineedyou",
-    "url": "https://music.apple.com/ca/album/1876286712",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/ff/84/06ff848b-3b66-7b25-b324-b84aeba741dc/8909561009724.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "single"
-  },
-  {
-    "id": "1878667932",
-    "name": "Project V - EP",
-    "artist": "HARPY & Nyastey",
-    "url": "https://music.apple.com/ca/album/1878667932",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/7b/05/c87b0503-c735-224c-a5c7-d9d65c99a591/859731784211_cover.jpg/1400x1400bb.jpg",
-    "releaseDate": "2026-02-25",
-    "albumType": "ep"
-  },
-  {
-    "id": "1880030423",
-    "name": "Yudh Nasheyan Virudh - Single",
-    "artist": "Prabh Bains, Kala Grewal & Jashan Inder",
-    "url": "https://music.apple.com/ca/album/1880030423",
-    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/30/4b/4d304b4e-748b-33a9-1ff5-571a4692a4a3/8905285303124.jpg/3000x3000bb.jpg",
-    "releaseDate": "2026-02-25",
+    "id": "1878778167",
+    "name": "Jai Bajrang  Di Goonj - Single",
+    "artist": "Balwinder Bhalla",
+    "url": "https://music.apple.com/ca/album/1878778167",
+    "artworks": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9d/e7/fa9de79c-a500-8aff-5ad2-3295af79d848/8909561113544.jpg/3000x3000bb.jpg",
+    "releaseDate": "2026-02-26",
     "albumType": "single"
   }
 ]
